@@ -1,34 +1,20 @@
 import { fetchPosts } from '@/lib/api'
 import { buildMetadata } from '@/lib/metadata'
-import { PageHeader } from '@/components/layout/PageHeader'
 import type { Metadata } from 'next'
+import { ParallaxHero } from '@/components/ui/ParallaxHero'
+import { PressClient } from './PressClient'
 
+export const revalidate = 3600
 export const metadata: Metadata = buildMetadata({ title: 'Press', path: '/press' })
 
 export default async function PressPage() {
-  const items = await fetchPosts('press')
+  const posts = await fetchPosts('press')
   return (
-    <div className="w-full">
-      <PageHeader title="Press" />
-      <div className="px-[6vw] pb-24">
-        <div className="flex flex-col divide-y divide-border">
-          {items.map((item) => (
-            <div key={item.slug} className="py-6 flex justify-between items-baseline gap-8">
-              <div>
-                <h3 className="text-sm font-medium">{item.title}</h3>
-                <p className="text-xs text-muted-foreground mt-1">{item.date}</p>
-              </div>
-              {(item as any).link && (item as any).link !== '#' && (
-                <a href={(item as any).link} target="_blank" rel="noopener noreferrer"
-                  className="text-xs underline underline-offset-4 hover:opacity-70 whitespace-nowrap">
-                  {(item as any).type === 'pdf' ? 'Download PDF' : 'Read Article'}
-                </a>
-              )}
-            </div>
-          ))}
-          {items.length === 0 && <p className="text-sm text-muted-foreground py-8">Coming soon.</p>}
-        </div>
-      </div>
+    <div className="w-full bg-white min-h-screen pb-12">
+      <ParallaxHero image="https://irp.cdn-website.com/5516674f/dms3rep/multi/cover-team-f51a7633.jpg" height="h-[80vh]">
+        <div className="absolute top-0 left-0 w-full h-32 bg-gradient-to-b from-black/30 to-transparent pointer-events-none md:hidden" />
+      </ParallaxHero>
+      <PressClient posts={posts} />
     </div>
   )
 }

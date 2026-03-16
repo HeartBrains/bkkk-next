@@ -1,37 +1,26 @@
 import { fetchPosts } from '@/lib/api'
 import { buildMetadata } from '@/lib/metadata'
-import { PageHeader } from '@/components/layout/PageHeader'
 import type { Metadata } from 'next'
-import Link from 'next/link'
-import { ImageWithFallback } from '@/components/ui/ImageWithFallback'
+import { ParallaxHero } from '@/components/ui/ParallaxHero'
+import { ListingClient } from '@/components/pages/ListingClient'
 
+export const revalidate = 3600
 export const metadata: Metadata = buildMetadata({ title: 'Activities', path: '/activities' })
 
 export default async function ActivitiesPage() {
-  const items = await fetchPosts('activities')
+  const posts = await fetchPosts('activities')
   return (
-    <div className="w-full">
-      <PageHeader title="Activities" />
-      <div className="px-[6vw] pb-24 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-        {items.map((item) => (
-          <Link key={item.slug} href="/activities/${item.slug}" className="group">
-            <div className="aspect-[4/3] relative overflow-hidden bg-zinc-100 mb-4">
-              <ImageWithFallback
-                src={item.featuredImage?.sourceUrl ?? ''}
-                alt={item.title}
-                fill
-                sizes="(max-width: 768px) 100vw, 33vw"
-                className="object-cover group-hover:scale-105 transition-transform duration-500"
-              />
-            </div>
-            <h3 className="text-sm font-medium">{item.title}</h3>
-            <p className="text-xs text-muted-foreground mt-1">{item.date}</p>
-          </Link>
-        ))}
-        {items.length === 0 && (
-          <p className="text-muted-foreground text-sm col-span-full">Coming soon.</p>
-        )}
-      </div>
+    <div className="w-full bg-white min-h-screen pb-24 font-sans text-black">
+      <ParallaxHero image="https://irp.cdn-website.com/5516674f/dms3rep/multi/1000012646.jpg" height="h-[80vh]">
+        <div className="absolute top-0 left-0 w-full h-32 bg-gradient-to-b from-black/30 to-transparent pointer-events-none md:hidden" />
+      </ParallaxHero>
+      <ListingClient
+        posts={posts}
+        type="activities"
+        navLabel={{ en: 'Activities', th: 'กิจกรรม' }}
+        emptyLabel={{ en: 'No activities', th: 'ไม่มีกิจกรรม' }}
+        tags={{ en: ['Performance', 'Screening', 'Talk / Lectures', 'Workshop', 'Sound'], th: ['การแสดง', 'การฉายภาพยนตร์', 'การบรรยาย', 'เวิร์คช็อป', 'เสียง'] }}
+      />
     </div>
   )
 }

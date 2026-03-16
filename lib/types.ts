@@ -5,6 +5,7 @@ export type ContentType =
   | 'activities'
   | 'blog'
   | 'moving-image'
+  | 'residency'
   | 'artists'
   | 'press'
 

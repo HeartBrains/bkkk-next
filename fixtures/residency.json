@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "slug": "emma-mccormick-goodhart",
+    "type": "residency",
+    "title": "Emma McCormick-Goodhart",
+    "content": "<p>Emma McCormick-Goodhart is a writer and curator based between London and Bangkok.</p>",
+    "date": "2025-01-15",
+    "featuredImage": {
+      "sourceUrl": "https://irp.cdn-website.com/5516674f/dms3rep/multi/Puma_cover-for-about.jpg",
+      "altText": "Emma McCormick-Goodhart"
+    },
+    "gallery": [],
+    "acf": {
+      "title_th": "เอ็มม่า แมคคอร์มิค-กูดฮาร์ต",
+      "from_date": "2025-01-15",
+      "to_date": "2025-06-30",
+      "date_display": "January – June 2025",
+      "date_display_th": "มกราคม – มิถุนายน 2568"
+    }
+  },
+  {
+    "id": "2",
+    "slug": "natalie-bruck",
+    "type": "residency",
+    "title": "Natalie Bruck",
+    "content": "<p>Natalie Bruck is an artist and researcher working across performance and installation.</p>",
+    "date": "2025-03-01",
+    "featuredImage": null,
+    "gallery": [],
+    "acf": {
+      "title_th": "นาตาลี บรัค",
+      "from_date": "2025-03-01",
+      "to_date": "2025-08-31",
+      "date_display": "March – August 2025",
+      "date_display_th": "มีนาคม – สิงหาคม 2568"
+    }
+  },
+  {
+    "id": "3",
+    "slug": "cole-lu",
+    "type": "residency",
+    "title": "Cole Lu",
+    "content": "<p>Cole Lu is an artist and writer whose practice spans text, sound, and moving image.</p>",
+    "date": "2025-06-01",
+    "featuredImage": null,
+    "gallery": [],
+    "acf": {
+      "title_th": "โคล ลู",
+      "from_date": "2025-06-01",
+      "to_date": "2025-12-31",
+      "date_display": "June – December 2025",
+      "date_display_th": "มิถุนายน – ธันวาคม 2568"
+    }
+  }
+]

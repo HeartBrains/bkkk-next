@@ -5,38 +5,39 @@ import { Menu } from 'lucide-react'
 import { Button } from '@/components/ui/button'
 import { MenuOverlay } from './MenuOverlay'
 import Link from 'next/link'
-import Image from 'next/image'
 
 export function Header() {
   const [menuOpen, setMenuOpen] = useState(false)
   const [scrolled, setScrolled] = useState(false)
 
   useEffect(() => {
-    const onScroll = () => setScrolled(window.scrollY > 10)
+    const onScroll = () => setScrolled(window.scrollY > 50)
     window.addEventListener('scroll', onScroll, { passive: true })
     return () => window.removeEventListener('scroll', onScroll)
   }, [])
 
   return (
     <>
-      <header
-        className={`fixed top-0 left-0 right-0 z-40 transition-colors duration-300 ${
-          scrolled ? 'bg-background/95 backdrop-blur-sm border-b border-border' : 'bg-transparent'
-        }`}
-      >
-        <div className="flex items-center justify-between px-[6vw] h-16">
-          <Link href="/bangkok" className="flex items-center">
-            <span className="text-base font-medium tracking-widest uppercase">
+      <header className="fixed top-0 left-0 w-full z-40 px-[5%] py-6 flex justify-between items-start md:items-center transition-all duration-300 bg-transparent">
+        <div className="cursor-pointer mt-0 mr-0 mb-0 ml-0 p-0 overflow-visible">
+          <Link href="/bangkok">
+            <span
+              className={`font-sans text-sm tracking-widest uppercase transition-all duration-300 ${
+                scrolled ? 'opacity-0 invisible' : 'opacity-100 visible'
+              }`}
+            >
               Bangkok Kunsthalle
             </span>
           </Link>
+        </div>
+        <div className="flex items-center gap-4 mr-[-2%]">
           <Button
             variant="ghost"
-            size="icon"
             onClick={() => setMenuOpen(true)}
+            className="w-[9vw] h-[9vw] min-w-[9vw] min-h-[9vw] md:w-[6vw] md:h-[6vw] md:min-w-[6vw] md:min-h-[6vw] !p-0 transition-colors hover:bg-transparent text-black"
             aria-label="Open menu"
           >
-            <Menu className="h-5 w-5" />
+            <Menu className="!w-[100%] !h-[82%] md:!w-[45%] md:!h-[45%]" strokeWidth={1.5} />
           </Button>
         </div>
       </header>

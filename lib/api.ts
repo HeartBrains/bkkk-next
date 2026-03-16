@@ -40,6 +40,7 @@ const ENDPOINT_MAP: Record<ContentType, string> = {
   activities: 'activities',
   blog: 'posts',
   'moving-image': 'moving-image',
+  residency: 'residency',
   artists: 'artists',
   press: 'press',
 }

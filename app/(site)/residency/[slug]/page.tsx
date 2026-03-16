@@ -1,41 +1,34 @@
 import { fetchPostBySlug, fetchAllSlugs } from '@/lib/api'
 import { buildMetadata } from '@/lib/metadata'
-import { PageHeader } from '@/components/layout/PageHeader'
 import { notFound } from 'next/navigation'
 import type { Metadata } from 'next'
-import Link from 'next/link'
+import { DetailClient } from '@/components/pages/DetailClient'
 
 export const dynamicParams = false
 
 export async function generateStaticParams() {
-  const slugs = await fetchAllSlugs('artists')
+  const slugs = await fetchAllSlugs('residency')
   return slugs.map((slug) => ({ slug }))
 }
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
   const { slug } = await params
-  const post = await fetchPostBySlug('artists', slug)
-  if (!post) return buildMetadata({ title: 'Residency', path: '/residency/${slug}' })
-  return buildMetadata({ title: post.title, path: '/residency/${slug}', image: post.featuredImage?.sourceUrl })
+  const post = await fetchPostBySlug('residency', slug)
+  if (!post) return buildMetadata({ title: 'residency', path: '/residency/' + slug })
+  return buildMetadata({ title: post.title, description: post.acf?.artist ?? '', path: '/residency/' + slug, image: post.featuredImage?.sourceUrl })
 }
 
-export default async function ResidencyDetailPage({ params }: { params: Promise<{ slug: string }> }) {
+export default async function DetailPage({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params
-  const post = await fetchPostBySlug('artists', slug)
+  const post = await fetchPostBySlug('residency', slug)
   if (!post) notFound()
+  const gallery = post.gallery?.length ? post.gallery : post.featuredImage?.sourceUrl ? [post.featuredImage.sourceUrl] : []
   return (
-    <div className="w-full">
-      <PageHeader
-        title={post.title}
-        imageUrl={post.featuredImage?.sourceUrl ?? ''}
-        meta={post.date ? <span className="text-sm text-muted-foreground">{post.date}</span> : undefined}
-      />
-      {post.content && (
-        <div className="px-[6vw] py-12 prose prose-sm max-w-2xl" dangerouslySetInnerHTML={{ __html: post.content }} />
-      )}
-      <div className="px-[6vw] pb-16">
-        <Link href="/residency" className="text-sm underline underline-offset-4 hover:opacity-70">← Back to Residency</Link>
-      </div>
-    </div>
+    <DetailClient
+      post={post}
+      gallery={gallery}
+      backHref="/residency"
+      backLabel={{ en: 'Back to Residency', th: 'กลับสู่เรสซิเดนซี่' }}
+    />
   )
 }

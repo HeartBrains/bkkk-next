@@ -1,24 +1,17 @@
 import { buildMetadata } from '@/lib/metadata'
-import { PageHeader } from '@/components/layout/PageHeader'
 import type { Metadata } from 'next'
-import Link from 'next/link'
+import { ParallaxHero } from '@/components/ui/ParallaxHero'
+import { AboutClient } from './AboutClient'
 
 export const metadata: Metadata = buildMetadata({ title: 'About', path: '/about' })
 
 export default function AboutPage() {
   return (
-    <div className="w-full">
-      <PageHeader title="About" />
-      <div className="px-[6vw] pb-24 max-w-3xl">
-        <p className="text-sm leading-relaxed mb-8">
-          Bangkok Kunsthalle is a multidisciplinary platform for contemporary art in Thailand,
-          dedicated to fostering dialogue between local and international artistic practices.
-        </p>
-        <div className="flex flex-col gap-2">
-          <Link href="/about/vision" className="text-sm underline underline-offset-4 hover:opacity-70">Vision</Link>
-          <Link href="/about/founder" className="text-sm underline underline-offset-4 hover:opacity-70">Founding Director</Link>
-        </div>
-      </div>
+    <div className="w-full min-h-screen bg-white pb-24">
+      <ParallaxHero image="https://irp.cdn-website.com/5516674f/dms3rep/multi/cover-for-history-34e22018.jpg" height="h-[80vh]">
+        <div className="absolute top-0 left-0 w-full h-32 bg-gradient-to-b from-black/30 to-transparent pointer-events-none md:hidden" />
+      </ParallaxHero>
+      <AboutClient />
     </div>
   )
 }

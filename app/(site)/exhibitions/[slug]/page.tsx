@@ -1,10 +1,9 @@
 import { fetchPostBySlug, fetchAllSlugs } from '@/lib/api'
 import { buildMetadata } from '@/lib/metadata'
-import { PageHeader } from '@/components/layout/PageHeader'
-import { EventJsonLd } from '@/components/seo/JsonLd'
 import { notFound } from 'next/navigation'
 import type { Metadata } from 'next'
-import Link from 'next/link'
+import { EventJsonLd } from '@/components/seo/JsonLd'
+import { ExhibitionDetailClient } from './ExhibitionDetailClient'
 
 export const dynamicParams = false
 
@@ -30,46 +29,22 @@ export default async function ExhibitionDetailPage({ params }: { params: Promise
   const post = await fetchPostBySlug('exhibitions', slug)
   if (!post) notFound()
 
-  const artist = post.acf?.artist ?? ''
-  const artistTH = post.acf?.artist_th ?? ''
-  const dateDisplay = post.acf?.date_display ?? ''
-  const curator = post.acf?.curator ?? ''
-  const featuredImage = post.featuredImage?.sourceUrl ?? ''
-
-  const fromDate = post.acf?.from_date ?? ''
-  const toDate = post.acf?.to_date ?? ''
+  const gallery = post.gallery && post.gallery.length > 0
+    ? post.gallery
+    : post.featuredImage?.sourceUrl
+      ? [post.featuredImage.sourceUrl]
+      : []
 
   return (
-    <div className="w-full">
+    <>
       <EventJsonLd
         name={post.title}
-        startDate={String(fromDate)}
-        endDate={String(toDate)}
-        description={artist}
-        image={featuredImage}
+        startDate={post.acf?.from_date ?? ''}
+        endDate={post.acf?.to_date ?? ''}
+        description={post.acf?.artist ?? ''}
+        image={post.featuredImage?.sourceUrl ?? ''}
       />
-      <PageHeader
-        title={post.title}
-        imageUrl={featuredImage}
-        meta={
-          <>
-            {artist && <span className="text-sm">{artist}</span>}
-            {dateDisplay && <span className="text-sm text-muted-foreground">{dateDisplay}</span>}
-            {curator && <span className="text-sm text-muted-foreground">Curator: {curator}</span>}
-          </>
-        }
-      />
-      {post.content && (
-        <div
-          className="px-[6vw] py-12 prose prose-sm max-w-2xl"
-          dangerouslySetInnerHTML={{ __html: post.content }}
-        />
-      )}
-      <div className="px-[6vw] pb-16">
-        <Link href="/exhibitions" className="text-sm underline underline-offset-4 hover:opacity-70">
-          ← Back to Exhibitions
-        </Link>
-      </div>
-    </div>
+      <ExhibitionDetailClient post={post} gallery={gallery} />
+    </>
   )
 }
