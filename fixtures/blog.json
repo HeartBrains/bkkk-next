@@ -1,14 +1,420 @@
 [
   {
-    "id": "1",
-    "slug": "welcome-to-bangkok-kunsthalle",
-    "type": "post",
-    "title": "Welcome to Bangkok Kunsthalle",
-    "content": "<p>Bangkok Kunsthalle opens its doors to the public.</p>",
-    "date": "2024-01-01",
-    "featuredImage": "",
+    "id": "post-1",
+    "slug": "art-as-reflection",
+    "type": "blog",
+    "title": "Art as a Reflection of Society",
+    "content": "\n    <p>Art has always served as a mirror to society, reflecting its triumphs, struggles, and evolving identity. In the contemporary landscape, this relationship has become even more intricate. Artists are not merely observers but active participants in the cultural dialogue, challenging norms and envisioning new futures.</p>\n    <p>The role of public institutions like the Bangkok Kunsthalle is to facilitate this conversation. By providing a space where diverse voices can be heard, we foster a community that values creativity and critical thinking. Our upcoming exhibitions aim to explore these themes deeply, inviting visitors to engage with art that speaks directly to the human condition in the 21st century.</p>\n    <p>From the streets of Bangkok to the global stage, Thai artists are making waves with their unique perspectives. They blend traditional techniques with modern mediums, creating works that are both rooted in heritage and forward-looking. This synthesis of old and new is a testament to the resilience and adaptability of Thai culture.</p>\n  ",
+    "date": "01 December 2025",
+    "featuredImage": {
+      "sourceUrl": "https://images.unsplash.com/photo-1743015348137-e06a2cb059a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxhcnRpc3QlMjBwYWludGluZyUyMGNsb3NlJTIwdXAlMjBnbGFzc2VzfGVufDF8fHx8MTc2NTAwNDQ3M3ww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "altText": "Blog Detail Hero"
+    },
+    "gallery": [],
     "acf": {
-      "title_th": "ยินดีต้อนรับสู่บางกอก คุนสท์ฮัลเล่"
+      "title_th": "ศิลปะเป็นภาพสะท้อนของสังคม",
+      "content_th": "\n    <p>ศิลปะเป็นกระจกสะท้อนสังคมมาโดยตลอด สะท้อนความสำเร็จ การต่อสู้ และอัตลักษณ์ที่พัฒนาไป ในภูมิทัศน์ร่วมสมัย ความสัมพันธ์นี้กลายเป็นเรื่องที่ซับซ้อนยิ่งขึ้น ศิลปินไม่ได้เป็นเพียงผู้สังเกตการณ์ แต่เป็นผู้มีส่วนร่วมอย่างแข็งขันในบทสนทนาทางวัฒนธรรม ท้าทายบรรทัดฐานและจินตนาการถึงอนาคตใหม่</p>\n    <p>บทบาทของสถาบันสาธารณะเช่นบางกอก คุนสท์ฮัลเล่คือการอำนวยความสะดวกในการสนทนานี้ ด้วยการจัดหาพื้นที่ที่เสียงที่หลากหลายสามารถได้ยิน เราส่งเสริมชุมชนที่ให้คุณค่ากับความคิดสร้างสรรค์และการคิดเชิงวิพากษ์ นิทรรศการที่จะมาถึงของเรามีเป้าหมายที่จะสำรวจประเด็นเหล่านี้อย่างลึกซึ้ง เชิญชวนผู้เยี่ยมชมให้มีส่วนร่วมกับศิลปะที่พูดโดยตรงกับภาวะของมนุษย์ในศตวรรษที่ 21</p>\n    <p>จากถนนในกรุงเทพฯ สู่เวทีระดับโลก ศิลปินไทยกำ���ังสร้างกระ莎ด้วยมุมมองที่เป็นเอกลักษณ์ พวกเขาผสมผสานเทคนิคดั้งเดิมกับสื่อสมัยใหม่ สร้างผลงานที่มีรากฐานมาจากมรดกแต่มองไปข้างหน้า การสังเคราะห์ระหว่างของเก่าและของใหม่นี้เป็นเครื่องพิสูจน์ถึงความยืดหยุ่นและความสามารถในการปรับตัวของวัฒนธรรมไทย</p>\n  ",
+      "date_display": "01 December 2025",
+      "date_display_th": "01 ธันวาคม 2568"
+    }
+  },
+  {
+    "id": "future-visions",
+    "slug": "future-visions",
+    "type": "blog",
+    "title": "Future Visions",
+    "content": "<p>This is a placeholder content for <strong>Future Visions</strong>. Detailed information about this post is coming soon.</p>",
+    "date": "15 January 2026",
+    "featuredImage": {
+      "sourceUrl": "https://images.unsplash.com/photo-1743015348137-e06a2cb059a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxhcnRpc3QlMjBwYWludGluZyUyMGNsb3NlJTIwdXAlMjBnbGFzc2VzfGVufDF8fHx8MTc2NTAwNDQ3M3ww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "altText": "Future Visions"
+    },
+    "gallery": [
+      "https://images.unsplash.com/photo-1743015348137-e06a2cb059a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxhcnRpc3QlMjBwYWludGluZyUyMGNsb3NlJTIwdXAlMjBnbGFzc2VzfGVufDF8fHx8MTc2NTAwNDQ3M3ww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+    ],
+    "acf": {
+      "title_th": "วิสัยทัศน์แห่งอนาคต",
+      "content_th": "<p>นี่คือเนื้อหาตัวยึดสำหรับ <strong>วิสัยทัศน์แห่งอนาคต</strong> ข้อมูลโดยละเอียดเกี่ยวกับบทความนี้จะมาเร็วๆ นี้</p>",
+      "date_display": "15 January 2026",
+      "date_display_th": "15 มกราคม 2569"
+    }
+  },
+  {
+    "id": "evolution-of-light",
+    "slug": "evolution-of-light",
+    "type": "blog",
+    "title": "The Evolution of Light Installations",
+    "content": "<p>This is a placeholder content for <strong>The Evolution of Light Installations</strong>. Detailed information about this post is coming soon.</p>",
+    "date": "15 November 2025",
+    "featuredImage": {
+      "sourceUrl": "https://images.unsplash.com/photo-1682020658390-b059777cb8da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx5ZWxsb3clMjBsaWdodCUyMGluc3RhbGxhdGlvbiUyMGFydCUyMGZvZ3xlbnwxfHx8fDE3NjUwMDQ0NzN8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "altText": "The Evolution of Light Installations"
+    },
+    "gallery": [
+      "https://images.unsplash.com/photo-1682020658390-b059777cb8da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx5ZWxsb3clMjBsaWdodCUyMGluc3RhbGxhdGlvbiUyMGFydCUyMGZvZ3xlbnwxfHx8fDE3NjUwMDQ0NzN8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+    ],
+    "acf": {
+      "title_th": "วิวัฒนาการของการติดตั้งแสง",
+      "content_th": "<p>นี่คือเนื้อหาตัวยึดสำหรับ <strong>วิวัฒนาการของการติดตั้งแสง</strong> ข้อมูลโดยละเอียดเกี่ยวกับบทความนี้จะมาเร็วๆ นี้</p>",
+      "date_display": "15 November 2025",
+      "date_display_th": "15 พฤศจิกายน 2568"
+    }
+  },
+  {
+    "id": "digital-frontiers",
+    "slug": "digital-frontiers",
+    "type": "blog",
+    "title": "Digital Frontiers in Art",
+    "content": "<p>This is a placeholder content for <strong>Digital Frontiers in Art</strong>. Detailed information about this post is coming soon.</p>",
+    "date": "20 October 2025",
+    "featuredImage": {
+      "sourceUrl": "https://images.unsplash.com/photo-1714577101066-21adcfd031c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxzaGFkb3clMjBzaWxob3VldHRlJTIwYXJ0JTIwYmxhY2slMjBhbmQlMjB3aGl0ZXxlbnwxfHx8fDE3NjUwMDQ0NzN8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "altText": "Digital Frontiers in Art"
+    },
+    "gallery": [
+      "https://images.unsplash.com/photo-1714577101066-21adcfd031c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxzaGFkb3clMjBzaWxob3VldHRlJTIwYXJ0JTIwYmxhY2slMjBhbmQlMjB3aGl0ZXxlbnwxfHx8fDE3NjUwMDQ0NzN8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+    ],
+    "acf": {
+      "title_th": "พรมแดนดิจิทัลในศิลปะ",
+      "content_th": "<p>นี่คือเนื้อหาตัวยึดสำหรับ <strong>พรมแดนดิจิทัลในศิลปะ</strong> ข้อมูลโดยละเอียดเกี่ยวกับบทความนี้จะมาเร็วๆ นี้</p>",
+      "date_display": "20 October 2025",
+      "date_display_th": "20 ตุลาคม 2568"
+    }
+  },
+  {
+    "id": "sustainable-sculpture",
+    "slug": "sustainable-sculpture",
+    "type": "blog",
+    "title": "Sustainable Sculpture",
+    "content": "<p>This is a placeholder content for <strong>Sustainable Sculpture</strong>. Detailed information about this post is coming soon.</p>",
+    "date": "05 September 2025",
+    "featuredImage": {
+      "sourceUrl": "https://images.unsplash.com/photo-1761403692053-4d9a9c0284dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxuZW9uJTIwbGlnaHQlMjBhcnQlMjBpbnN0YWxsYXRpb24lMjB0ZXh0fGVufDF8fHx8MTc2NTAwNDQ3M3ww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "altText": "Sustainable Sculpture"
+    },
+    "gallery": [
+      "https://images.unsplash.com/photo-1761403692053-4d9a9c0284dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxuZW9uJTIwbGlnaHQlMjBhcnQlMjBpbnN0YWxsYXRpb24lMjB0ZXh0fGVufDF8fHx8MTc2NTAwNDQ3M3ww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+    ],
+    "acf": {
+      "title_th": "ประติมากรรมที่ยั่งยืน",
+      "content_th": "<p>นี่คือเนื้อหาตัวยึดสำหรับ <strong>ประติมากรรมที่ยั่งยืน</strong> ข้อมูลโดยละเอียดเกี่ยวกับบทความนี้จะมาเร็วๆ นี้</p>",
+      "date_display": "05 September 2025",
+      "date_display_th": "05 กันยายน 2568"
+    }
+  },
+  {
+    "id": "shadows-and-silhouettes",
+    "slug": "shadows-and-silhouettes",
+    "type": "blog",
+    "title": "Shadows and Silhouettes",
+    "content": "<p>This is a placeholder content for <strong>Shadows and Silhouettes</strong>. Detailed information about this post is coming soon.</p>",
+    "date": "15 December 2024",
+    "featuredImage": {
+      "sourceUrl": "https://images.unsplash.com/photo-1714577101066-21adcfd031c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxzaGFkb3clMjBzaWxob3VldHRlJTIwYXJ0JTIwYmxhY2slMjBhbmQlMjB3aGl0ZXxlbnwxfHx8fDE3NjUwMDQ0NzN8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "altText": "Shadows and Silhouettes"
+    },
+    "gallery": [
+      "https://images.unsplash.com/photo-1714577101066-21adcfd031c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxzaGFkb3clMjBzaWxob3VldHRlJTIwYXJ0JTIwYmxhY2slMjBhbmQlMjB3aGl0ZXxlbnwxfHx8fDE3NjUwMDQ0NzN8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+    ],
+    "acf": {
+      "title_th": "เงาและเงาดำ",
+      "content_th": "<p>นี่คือเนื้อหาตัวยึดสำหรับ <strong>เงาและเงาดำ</strong> ข้อมูลโดยละเอียดเกี่ยวกับบทความนี้จะมาเร็วๆ นี้</p>",
+      "date_display": "15 December 2024",
+      "date_display_th": "15 ธันวาคม 2567"
+    }
+  },
+  {
+    "id": "neon-cities",
+    "slug": "neon-cities",
+    "type": "blog",
+    "title": "Neon Cities: Urban Aesthetics",
+    "content": "<p>This is a placeholder content for <strong>Neon Cities: Urban Aesthetics</strong>. Detailed information about this post is coming soon.</p>",
+    "date": "10 November 2024",
+    "featuredImage": {
+      "sourceUrl": "https://images.unsplash.com/photo-1761403692053-4d9a9c0284dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxuZW9uJTIwbGlnaHQlMjBhcnQlMjBpbnN0YWxsYXRpb24lMjB0ZXh0fGVufDF8fHx8MTc2NTAwNDQ3M3ww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "altText": "Neon Cities: Urban Aesthetics"
+    },
+    "gallery": [
+      "https://images.unsplash.com/photo-1761403692053-4d9a9c0284dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxuZW9uJTIwbGlnaHQlMjBhcnQlMjBpbnN0YWxsYXRpb24lMjB0ZXh0fGVufDF8fHx8MTc2NTAwNDQ3M3ww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+    ],
+    "acf": {
+      "title_th": "เมืองนีออน: สุนทรียภาพของเ<|im_start|>ือง",
+      "content_th": "<p>นี่คือเนื้อหาตัวยึดสำหรับ <strong>เมืองนีออน: สุนทรียภาพของเ<|im_start|>ือง</strong> ข้อมูลโดยละเอียดเกี่ยวกับบทความนี้จะมาเร็วๆ นี้</p>",
+      "date_display": "10 November 2024",
+      "date_display_th": "10 พฤศจิกายน 2567"
+    }
+  },
+  {
+    "id": "abstract-expressionism",
+    "slug": "abstract-expressionism",
+    "type": "blog",
+    "title": "Abstract Expressionism Today",
+    "content": "<p>This is a placeholder content for <strong>Abstract Expressionism Today</strong>. Detailed information about this post is coming soon.</p>",
+    "date": "22 September 2024",
+    "featuredImage": {
+      "sourceUrl": "https://images.unsplash.com/photo-1718377793684-f5a6c8446792?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx0aGFpJTIwZGFuY2VyJTIwdHJhZGl0aW9uYWwlMjBraG9ufGVufDF8fHx8MTc2NTAwNDQ3M3ww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "altText": "Abstract Expressionism Today"
+    },
+    "gallery": [
+      "https://images.unsplash.com/photo-1718377793684-f5a6c8446792?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx0aGFpJTIwZGFuY2VyJTIwdHJhZGl0aW9uYWwlMjBraG9ufGVufDF8fHx8MTc2NTAwNDQ3M3ww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+    ],
+    "acf": {
+      "title_th": "ศิลปะแสดงออกแบบนามธรรมวันนี้",
+      "content_th": "<p>นี่คือเนื้อหาตัวยึดสำหรับ <strong>ศิลปะแสดงออกแบบนามธรรมวันนี้</strong> ข้อมูลโดยละเอียดเกี่ยวกับบทความนี้จะมาเร็วๆ นี้</p>",
+      "date_display": "22 September 2024",
+      "date_display_th": "22 กันยายน 2567"
+    }
+  },
+  {
+    "id": "minimalist-architecture",
+    "slug": "minimalist-architecture",
+    "type": "blog",
+    "title": "Minimalist Architecture",
+    "content": "<p>This is a placeholder content for <strong>Minimalist Architecture</strong>. Detailed information about this post is coming soon.</p>",
+    "date": "14 August 2024",
+    "featuredImage": {
+      "sourceUrl": "https://images.unsplash.com/photo-1761069234641-3a68266c4740?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjb25jcmV0ZSUyMHR1bm5lbCUyMGluZHVzdHJpYWwlMjBkYXJrfGVufDF8fHx8MTc2NTAwNDQ3M3ww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "altText": "Minimalist Architecture"
+    },
+    "gallery": [
+      "https://images.unsplash.com/photo-1761069234641-3a68266c4740?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjb25jcmV0ZSUyMHR1bm5lbCUyMGluZHVzdHJpYWwlMjBkYXJrfGVufDF8fHx8MTc2NTAwNDQ3M3ww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+    ],
+    "acf": {
+      "title_th": "สถาปัตยกรรมมินิมัลลิสต์",
+      "content_th": "<p>นี่คือเนื้อหาตัวยึดสำหรับ <strong>สถาปัตยกรรมมินิมัลลิสต์</strong> ข้อมูลโดยละเอียดเกี่ยวกับบทความนี้จะมาเร็วๆ นี้</p>",
+      "date_display": "14 August 2024",
+      "date_display_th": "14 สิงหาคม 2567"
+    }
+  },
+  {
+    "id": "sound-of-art",
+    "slug": "sound-of-art",
+    "type": "blog",
+    "title": "The Sound of Art",
+    "content": "<p>This is a placeholder content for <strong>The Sound of Art</strong>. Detailed information about this post is coming soon.</p>",
+    "date": "30 June 2024",
+    "featuredImage": {
+      "sourceUrl": "https://images.unsplash.com/photo-1743015348137-e06a2cb059a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxhcnRpc3QlMjBwYWludGluZyUyMGNsb3NlJTIwdXAlMjBnbGFzc2VzfGVufDF8fHx8MTc2NTAwNDQ3M3ww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "altText": "The Sound of Art"
+    },
+    "gallery": [
+      "https://images.unsplash.com/photo-1743015348137-e06a2cb059a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxhcnRpc3QlMjBwYWludGluZyUyMGNsb3NlJTIwdXAlMjBnbGFzc2VzfGVufDF8fHx8MTc2NTAwNDQ3M3ww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+    ],
+    "acf": {
+      "title_th": "เสียงของศิลปะ",
+      "content_th": "<p>นี่คือเนื้อหาตัวยึดสำหรับ <strong>เสียงของศิลปะ</strong> ข้อมูลโดยละเอียดเกี่ยวกับบทความนี้จะมาเร็วๆ นี้</p>",
+      "date_display": "30 June 2024",
+      "date_display_th": "30 มิถุนายน 2567"
+    }
+  },
+  {
+    "id": "traditional-dance-blog",
+    "slug": "traditional-dance-blog",
+    "type": "blog",
+    "title": "Traditional Dance in Modern Times",
+    "content": "<p>This is a placeholder content for <strong>Traditional Dance in Modern Times</strong>. Detailed information about this post is coming soon.</p>",
+    "date": "05 December 2023",
+    "featuredImage": {
+      "sourceUrl": "https://images.unsplash.com/photo-1718377793684-f5a6c8446792?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx0aGFpJTIwZGFuY2VyJTIwdHJhZGl0aW9uYWwlMjBraG9ufGVufDF8fHx8MTc2NTAwNDQ3M3ww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "altText": "Traditional Dance in Modern Times"
+    },
+    "gallery": [
+      "https://images.unsplash.com/photo-1718377793684-f5a6c8446792?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx0aGFpJTIwZGFuY2VyJTIwdHJhZGl0aW9uYWwlMjBraG9ufGVufDF8fHx8MTc2NTAwNDQ3M3ww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+    ],
+    "acf": {
+      "title_th": "การเต้นรำแบบดั้งเดิมในยุคสมัยใหม่",
+      "content_th": "<p>นี่คือเนื้อหาตัวยึดสำหรับ <strong>การเต้นรำแบบดั้งเดิมในยุคสมัยใหม่</strong> ข้อมูลโดยละเอียดเกี่ยวกับบทความนี้จะมาเร็วๆ นี้</p>",
+      "date_display": "05 December 2023",
+      "date_display_th": "05 ธันวาคม 2566"
+    }
+  },
+  {
+    "id": "ceramics-and-culture",
+    "slug": "ceramics-and-culture",
+    "type": "blog",
+    "title": "Ceramics and Culture",
+    "content": "<p>This is a placeholder content for <strong>Ceramics and Culture</strong>. Detailed information about this post is coming soon.</p>",
+    "date": "12 October 2023",
+    "featuredImage": {
+      "sourceUrl": "https://images.unsplash.com/photo-1682020658390-b059777cb8da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx5ZWxsb3clMjBsaWdodCUyMGluc3RhbGxhdGlvbiUyMGFydCUyMGZvZ3xlbnwxfHx8fDE3NjUwMDQ0NzN8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "altText": "Ceramics and Culture"
+    },
+    "gallery": [
+      "https://images.unsplash.com/photo-1682020658390-b059777cb8da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx5ZWxsb3clMjBsaWdodCUyMGluc3RhbGxhdGlvbiUyMGFydCUyMGZvZ3xlbnwxfHx8fDE3NjUwMDQ0NzN8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+    ],
+    "acf": {
+      "title_th": "เซรามิกและวัฒนธรรม",
+      "content_th": "<p>นี่คือเนื้อหาตัวยึดสำหรับ <strong>เซรามิกและวัฒนธรรม</strong> ข้อมูลโดยละเอียดเกี่ยวกับบทความนี้จะมาเร็วๆ นี้</p>",
+      "date_display": "12 October 2023",
+      "date_display_th": "12 ตุลาคม 2566"
+    }
+  },
+  {
+    "id": "street-art",
+    "slug": "street-art",
+    "type": "blog",
+    "title": "Street Art Revolution",
+    "content": "<p>This is a placeholder content for <strong>Street Art Revolution</strong>. Detailed information about this post is coming soon.</p>",
+    "date": "18 August 2023",
+    "featuredImage": {
+      "sourceUrl": "https://images.unsplash.com/photo-1714577101066-21adcfd031c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxzaGFkb3clMjBzaWxob3VldHRlJTIwYXJ0JTIwYmxhY2slMjBhbmQlMjB3aGl0ZXxlbnwxfHx8fDE3NjUwMDQ0NzN8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "altText": "Street Art Revolution"
+    },
+    "gallery": [
+      "https://images.unsplash.com/photo-1714577101066-21adcfd031c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxzaGFkb3clMjBzaWxob3VldHRlJTIwYXJ0JTIwYmxhY2slMjBhbmQlMjB3aGl0ZXxlbnwxfHx8fDE3NjUwMDQ0NzN8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+    ],
+    "acf": {
+      "title_th": "การปฏิวัติศิลปะบนถนน",
+      "content_th": "<p>นี่คือเนื้อหาตัวยึดสำหรับ <strong>การปฏิวัติศิลปะบนถนน</strong> ข้อมูลโดยละเอียดเกี่ยวกับบทความนี้จะมาเร็วๆ นี้</p>",
+      "date_display": "18 August 2023",
+      "date_display_th": "18 สิงหาคม 2566"
+    }
+  },
+  {
+    "id": "textile-narratives",
+    "slug": "textile-narratives",
+    "type": "blog",
+    "title": "Textile Narratives",
+    "content": "<p>This is a placeholder content for <strong>Textile Narratives</strong>. Detailed information about this post is coming soon.</p>",
+    "date": "05 June 2023",
+    "featuredImage": {
+      "sourceUrl": "https://images.unsplash.com/photo-1761403692053-4d9a9c0284dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxuZW9uJTIwbGlnaHQlMjBhcnQlMjBpbnN0YWxsYXRpb24lMjB0ZXh0fGVufDF8fHx8MTc2NTAwNDQ3M3ww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "altText": "Textile Narratives"
+    },
+    "gallery": [
+      "https://images.unsplash.com/photo-1761403692053-4d9a9c0284dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxuZW9uJTIwbGlnaHQlMjBhcnQlMjBpbnN0YWxsYXRpb24lMjB0ZXh0fGVufDF8fHx8MTc2NTAwNDQ3M3ww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+    ],
+    "acf": {
+      "title_th": "เรื่องเล่าจากสิ่งทอ",
+      "content_th": "<p>นี่คือเนื้อหาตัวยึดสำหรับ <strong>เรื่องเล่าจากสิ่งทอ</strong> ข้อมูลโดยละเอียดเกี่ยวกับบทความนี้จะมาเร็วๆ นี้</p>",
+      "date_display": "05 June 2023",
+      "date_display_th": "05 มิถุนายน 2566"
+    }
+  },
+  {
+    "id": "performance-art-retro",
+    "slug": "performance-art-retro",
+    "type": "blog",
+    "title": "Performance Art Retrospective",
+    "content": "<p>This is a placeholder content for <strong>Performance Art Retrospective</strong>. Detailed information about this post is coming soon.</p>",
+    "date": "22 April 2023",
+    "featuredImage": {
+      "sourceUrl": "https://images.unsplash.com/photo-1761069234641-3a68266c4740?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjb25jcmV0ZSUyMHR1bm5lbCUyMGluZHVzdHJpYWwlMjBkYXJrfGVufDF8fHx8MTc2NTAwNDQ3M3ww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "altText": "Performance Art Retrospective"
+    },
+    "gallery": [
+      "https://images.unsplash.com/photo-1761069234641-3a68266c4740?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjb25jcmV0ZSUyMHR1bm5lbCUyMGluZHVzdHJpYWwlMjBkYXJrfGVufDF8fHx8MTc2NTAwNDQ3M3ww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+    ],
+    "acf": {
+      "title_th": "ศิลปะการแสดงย้อนหลัง",
+      "content_th": "<p>นี่คือเนื้อหาตัวยึดสำหรับ <strong>ศิลปะการแสดงย้อนหลัง</strong> ข้อมูลโดยละเอียดเกี่ยวกับบทความนี้จะมาเร็วๆ นี้</p>",
+      "date_display": "22 April 2023",
+      "date_display_th": "22 เมษายน 2566"
+    }
+  },
+  {
+    "id": "industrial-spaces",
+    "slug": "industrial-spaces",
+    "type": "blog",
+    "title": "Industrial Spaces Reimagined",
+    "content": "<p>This is a placeholder content for <strong>Industrial Spaces Reimagined</strong>. Detailed information about this post is coming soon.</p>",
+    "date": "01 December 2022",
+    "featuredImage": {
+      "sourceUrl": "https://images.unsplash.com/photo-1761069234641-3a68266c4740?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjb25jcmV0ZSUyMHR1bm5lbCUyMGluZHVzdHJpYWwlMjBkYXJrfGVufDF8fHx8MTc2NTAwNDQ3M3ww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "altText": "Industrial Spaces Reimagined"
+    },
+    "gallery": [
+      "https://images.unsplash.com/photo-1761069234641-3a68266c4740?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjb25jcmV0ZSUyMHR1bm5lbCUyMGluZHVzdHJpYWwlMjBkYXJrfGVufDF8fHx8MTc2NTAwNDQ3M3ww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+    ],
+    "acf": {
+      "title_th": "พื้นที่อุตสาหกรรมที่จินตนาการใหม่",
+      "content_th": "<p>นี่คือเนื้อหาตัวยึดสำหรับ <strong>พื้นที่อุตสาหกรรมที่จินตนาการใหม่</strong> ข้อมูลโดยละเอียดเกี่ยวกับบทความนี้จะมาเร็วๆ นี้</p>",
+      "date_display": "01 December 2022",
+      "date_display_th": "01 ธันวาคม 2565"
+    }
+  },
+  {
+    "id": "photography-digital",
+    "slug": "photography-digital",
+    "type": "blog",
+    "title": "Photography in the Digital Age",
+    "content": "<p>This is a placeholder content for <strong>Photography in the Digital Age</strong>. Detailed information about this post is coming soon.</p>",
+    "date": "15 October 2022",
+    "featuredImage": {
+      "sourceUrl": "https://images.unsplash.com/photo-1743015348137-e06a2cb059a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxhcnRpc3QlMjBwYWludGluZyUyMGNsb3NlJTIwdXAlMjBnbGFzc2VzfGVufDF8fHx8MTc2NTAwNDQ3M3ww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "altText": "Photography in the Digital Age"
+    },
+    "gallery": [
+      "https://images.unsplash.com/photo-1743015348137-e06a2cb059a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxhcnRpc3QlMjBwYWludGluZyUyMGNsb3NlJTIwdXAlMjBnbGFzc2VzfGVufDF8fHx8MTc2NTAwNDQ3M3ww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+    ],
+    "acf": {
+      "title_th": "การถ่ายภาพในยุคดิจิทัล",
+      "content_th": "<p>นี่คือเนื้อหาตัวยึดสำหรับ <strong>การถ่ายภาพในยุคดิจิทัล</strong> ข้อมูลโดยละเอียดเกี่ยวกับบทความนี้จะมาเร็วๆ นี้</p>",
+      "date_display": "15 October 2022",
+      "date_display_th": "15 ตุลาคม 2565"
+    }
+  },
+  {
+    "id": "installation-basics",
+    "slug": "installation-basics",
+    "type": "blog",
+    "title": "Installation Art Basics",
+    "content": "<p>This is a placeholder content for <strong>Installation Art Basics</strong>. Detailed information about this post is coming soon.</p>",
+    "date": "20 August 2022",
+    "featuredImage": {
+      "sourceUrl": "https://images.unsplash.com/photo-1682020658390-b059777cb8da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx5ZWxsb3clMjBsaWdodCUyMGluc3RhbGxhdGlvbiUyMGFydCUyMGZvZ3xlbnwxfHx8fDE3NjUwMDQ0NzN8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "altText": "Installation Art Basics"
+    },
+    "gallery": [
+      "https://images.unsplash.com/photo-1682020658390-b059777cb8da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx5ZWxsb3clMjBsaWdodCUyMGluc3RhbGxhdGlvbiUyMGFydCUyMGZvZ3xlbnwxfHx8fDE3NjUwMDQ0NzN8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+    ],
+    "acf": {
+      "title_th": "พื้นฐานศิลปะการติดตั้ง",
+      "content_th": "<p>นี่คือเนื้อหาตัวยึดสำหรับ <strong>พื้นฐานศิลปะการติดตั้ง</strong> ข้อมูลโดยละเอียดเกี่ยวกับบทความนี้จะมาเร็วๆ นี้</p>",
+      "date_display": "20 August 2022",
+      "date_display_th": "20 สิงหาคม 2565"
+    }
+  },
+  {
+    "id": "color-theory",
+    "slug": "color-theory",
+    "type": "blog",
+    "title": "Color Theory in Practice",
+    "content": "<p>This is a placeholder content for <strong>Color Theory in Practice</strong>. Detailed information about this post is coming soon.</p>",
+    "date": "10 June 2022",
+    "featuredImage": {
+      "sourceUrl": "https://images.unsplash.com/photo-1714577101066-21adcfd031c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxzaGFkb3clMjBzaWxob3VldHRlJTIwYXJ0JTIwYmxhY2slMjBhbmQlMjB3aGl0ZXxlbnwxfHx8fDE3NjUwMDQ0NzN8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "altText": "Color Theory in Practice"
+    },
+    "gallery": [
+      "https://images.unsplash.com/photo-1714577101066-21adcfd031c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxzaGFkb3clMjBzaWxob3VldHRlJTIwYXJ0JTIwYmxhY2slMjBhbmQlMjB3aGl0ZXxlbnwxfHx8fDE3NjUwMDQ0NzN8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+    ],
+    "acf": {
+      "title_th": "ทฤษฎีสีในการปฏิบัติ",
+      "content_th": "<p>นี่คือเนื้อหาตัวยึดสำหรับ <strong>ทฤษฎีสีในการปฏิบัติ</strong> ข้อมูลโดยละเอียดเกี่ยวกับบทความนี้จะมาเร็วๆ นี้</p>",
+      "date_display": "10 June 2022",
+      "date_display_th": "10 มิถุนายน 2565"
+    }
+  },
+  {
+    "id": "contemporary-spaces",
+    "slug": "contemporary-spaces",
+    "type": "blog",
+    "title": "Contemporary Art Spaces",
+    "content": "<p>This is a placeholder content for <strong>Contemporary Art Spaces</strong>. Detailed information about this post is coming soon.</p>",
+    "date": "10 March 2026",
+    "featuredImage": {
+      "sourceUrl": "https://images.unsplash.com/photo-1761069234641-3a68266c4740?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjb25jcmV0ZSUyMHR1bm5lbCUyMGluZHVzdHJpYWwlMjBkYXJrfGVufDF8fHx8MTc2NTAwNDQ3M3ww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "altText": "Contemporary Art Spaces"
+    },
+    "gallery": [
+      "https://images.unsplash.com/photo-1761069234641-3a68266c4740?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjb25jcmV0ZSUyMHR1bm5lbCUyMGluZHVzdHJpYWwlMjBkYXJrfGVufDF8fHx8MTc2NTAwNDQ3M3ww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+    ],
+    "acf": {
+      "title_th": "พื้นที่ศิลปะร่วมสมัย",
+      "content_th": "<p>นี่คือเนื้อหาตัวยึดสำหรับ <strong>พื้นที่ศิลปะร่วมสมัย</strong> ข้อมูลโดยละเอียดเกี่ยวกับบทความนี้จะมาเร็วๆ นี้</p>",
+      "date_display": "10 March 2026",
+      "date_display_th": "10 มีนาคม 2569"
     }
   }
 ]

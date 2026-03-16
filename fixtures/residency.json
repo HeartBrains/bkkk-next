@@ -1,39 +1,82 @@
 [
   {
+    "id": "8",
+    "slug": "upcoming-artist-2026",
+    "type": "residency",
+    "title": "To Be Announced",
+    "content": "",
+    "date": "",
+    "featuredImage": null,
+    "gallery": [
+      "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=800&auto=format&fit=crop"
+    ],
+    "acf": {
+      "title_th": "To Be Announced",
+      "artist": "To Be Announced",
+      "artist_th": "To Be Announced",
+      "from_date": "",
+      "to_date": "",
+      "date_display": "",
+      "date_display_th": "",
+      "nationality": "",
+      "nationality_th": "",
+      "content_th": ""
+    }
+  },
+  {
     "id": "1",
     "slug": "emma-mccormick-goodhart",
     "type": "residency",
-    "title": "Emma McCormick-Goodhart",
-    "content": "<p>Emma McCormick-Goodhart is a writer and curator based between London and Bangkok.</p>",
-    "date": "2025-01-15",
-    "featuredImage": {
-      "sourceUrl": "https://irp.cdn-website.com/5516674f/dms3rep/multi/Puma_cover-for-about.jpg",
-      "altText": "Emma McCormick-Goodhart"
-    },
-    "gallery": [],
+    "title": "Emma McCormick Goodhart",
+    "content": "<p>Emma McCormick Goodhart EMG (b. 1990, USA) is an artist, writer, researcher, and dramaturge who experiments across media, timescales, and modes of practice. Interested in deep-time developments of sensing—especially sound and scent—alongside technosensory futures, she stages soft architectures, social ecologies, and climate fictions that retune the spaces hosting them. Presentations include Haus der Kulturen der Welt, Kunsthalle Zürich, Le Musée d'Art Moderne de Paris, Nottingham Contemporary, and the Venice Architecture Biennale. Her writing appears in e-flux, Flash Art, Frieze, Sternberg Press, and Vestoj. An Affiliate Artist at the Rose Choreographic School, she is a commissioned artist for Counterpublic 2026.</p><p>During her residency at Bangkok Kunsthalle in January 2024, McCormick Goodhart developed \"glai glaai\" (2024), a neon sign-sculpture and speculative fiction installed across three floors. Her research into \"hypervisual ecologies of spatial practice,\" drawing on patchwork glyphs in Yaowarat, shaped the work's language-based intervention.</p><p>The installation features neon text reading \"ใกล้\" (\"glai,\" near) and \"ไกล\" (\"glaai,\" far\")—Thai homonyms differing only in tone—rendered in green and pink hues echoing local shark's fin–bird's nest restaurant signage. Read through one another's involuting glow and hum, the words collapse space and time into poetic ambiguity.</p><p>Described as a \"proposition in neon,\" the work operates as timescaling thought-form, spatial riddle, and anticipatory weathervane—gesturing toward contact, not forwards, but towards. It launched alongside \"gl ai yph\" (2024), a limited-edition artist book probing neon as deep-time environmental media: primordial isotope turned televisual icon, its fluid gas glow sustaining an afterlife of afterimage.</p>",
+    "date": "",
+    "featuredImage": null,
+    "gallery": [
+      "https://irp.cdn-website.com/5516674f/dms3rep/multi/Puma_Images+for+Website-Bangkok+Kunsthalle+Images+for+Website-6.+Residency-6.1+Emma+McCormick+Goodhart--glai+glaai-+Puttisin+Choojesroom+6.jpg",
+      "https://irp.cdn-website.com/5516674f/dms3rep/multi/Puma_Images+for+Website-Bangkok+Kunsthalle+Images+for+Website-6.+Residency-6.1+Emma+McCormick+Goodhart--glai+glaai-+Puttisin+Choojesroom+21.jpg",
+      "https://irp.cdn-website.com/5516674f/dms3rep/multi/Puma_Images+for+Website-Bangkok+Kunsthalle+Images+for+Website-6.+Residency-6.1+Emma+McCormick+Goodhart--glai+glaai-+Puttisin+Choojesroom+13.jpg",
+      "https://irp.cdn-website.com/5516674f/dms3rep/multi/Puma_Images+for+Website-Bangkok+Kunsthalle+Images+for+Website-6.+Residency-6.1+Emma+McCormick+Goodhart--glai+glaai-+Puttisin+Choojesroom+11.jpg",
+      "https://irp.cdn-website.com/5516674f/dms3rep/multi/Puma_Images+for+Website-Bangkok+Kunsthalle+Images+for+Website-6.+Residency-6.1+Emma+McCormick+Goodhart--glai+glaai-+Puttisin+Choojesroom+4.jpg"
+    ],
     "acf": {
-      "title_th": "เอ็มม่า แมคคอร์มิค-กูดฮาร์ต",
-      "from_date": "2025-01-15",
-      "to_date": "2025-06-30",
-      "date_display": "January – June 2025",
-      "date_display_th": "มกราคม – มิถุนายน 2568"
+      "title_th": "Emma McCormick Goodhart",
+      "artist": "Emma McCormick Goodhart",
+      "artist_th": "Emma McCormick Goodhart",
+      "from_date": "",
+      "to_date": "",
+      "date_display": "",
+      "date_display_th": "",
+      "nationality": "",
+      "nationality_th": "",
+      "content_th": "<p>เอ็มมา แมคคอร์มิก กู๊ดฮาร์ท EMG (เกิดปี 1990, สหรัฐอเมริกา) เป็นศิลปิน นักเขียน นักวิจัย และนักเขียนบทละคร ที่ทำงานข้ามสื่อ ข้ามกาลเวลา และข้ามรูปแบบการปฏิบัติ เธอสนใจในการพัฒนาความรู้สึกในมิติเวลาอันยาวนาน โดยเฉพาะเสียงและกลิ่น ควบคู่ไปกับอนาคตของเทคโนโลยีทางประสาทสัมผัส เธอจัดแสดงสถาปัตยกรรมที่อ่อนนุ่ม ระบบนิเวศทางสังคม และนิยายเกี่ยวกับสภาพอากาศที่ปรับแต่งพื้นที่ที่จัดแสดงผลงาน การนำเสนอผลงานรวมถึง Haus der Kulturen der Welt, Kunsthalle Zürich, Le Musée d'Art Moderne de Paris, Nottingham Contemporary และ Venice Architecture Biennale งานเขียนของเธอปรากฏใน e-flux, Flash Art, Frieze, Sternberg Press และ Vestoj เธอเป็นศิลปินสังกัดของ Rose Choreographic School และเป็นศิลปินที่ได้รับมอบหมายสำหรับ Counterpublic 2026</p><p>ในระหว่างการพำนักที่บางกอก คุนสท์ฮัลเล่ในเดือนมกราคม 2024 แมคคอร์มิก กู๊ดฮาร์ทพัฒนาผลงาน \"ใกล้ไกล\" (2024) ประติมากรรมไฟนีออนและนิยายเก็งกำไรที่ติดตั้งทั่วสามชั้น การวิจัยของเธอเกี่ยวกับ \"ระบบนิเวศภาพที่เหนือจริงของการปฏิบัติเชิงพื้นที่\" โดยอ้างอิงจากสัญลักษณ์แบบปะติดปะต่อในเยาวราช ทำให้เกิดการแทรกแซงที่อิงจากภาษาของผลงาน</p><p>การติดตั้งมีข้อความนีออนที่อ่านว่า \"ใกล้\" (glai, ใกล้) และ \"ไกล\" (glaai, ไกล) ซึ่งเป็นคำพ้องเสียงภาษาไทยที่ต่างกันเพียงวรรณยุกต์ แสดงผลด้วยเฉดสีเขียวและชมพูที่สะท้อนป้ายร้านอาหารหูฉลามรังนกในท้องถิ่น เมื่ออ่านผ่านแสงเรืองและเสียงหึ่งของกันและกัน คำเหล่านี้ทำให้พื้นที่และเวลายุบลงสู่ความคลุมเครือทางกวี</p><p>ผลงานที่อธิบายว่าเป็น \"ข้อเสนอในนีออน\" ทำงานเป็นรูปแบบความคิดที่ขยายเวลา ปริศนาเชิงพื้นที่ และกังหันลมที่คาดการณ์ล่วงหน้า โดยแสดงท่าทีไปสู่การสัมผัส ไม่ใช่ไปข้างหน้า แต่ไปสู่ มันเปิดตัวพร้อมกับ \"gl ai yph\" (2024) หนังสือศิลปินฉบับจำกัดที่สำรวจนีออนในฐานะสื่อสิ่งแวดล้อมที่มีมาช้านาน ไอโซโทปดั้งเดิมกลายเป็นไอคอนทางโทรทัศน์ แสงเรืองของก๊าซที่ไหลลื่นรักษาชีวิตหลังความตายของภาพหลังเหลือ</p>"
     }
   },
   {
     "id": "2",
     "slug": "natalie-bruck",
     "type": "residency",
-    "title": "Natalie Bruck",
-    "content": "<p>Natalie Bruck is an artist and researcher working across performance and installation.</p>",
-    "date": "2025-03-01",
+    "title": "Natalie Brück",
+    "content": "<p>Natalie Brück (b. 1989, Germany) is a multidisciplinary artist based in Berlin. Her work spans performance, video, spoken pieces, and installation, focusing on processes that unfold between people rather than on fixed objects or outcomes. Brück studied at the Hochschule der Bildenden Künste Saar and at the Academy of Fine Arts Munich, where she developed a performative practice working with language, body, and spatial structures.</p><p>Her installations often incorporate found objects and constructed environments, creating perceptual situations that invite viewers to reflect on their own position, attention, and experience. Brück's work has been presented in various exhibition contexts and performance spaces.</p><p>As part of her 2024 residency at Bangkok Kunsthalle, Brück developed \"Working On The Imaginary Object\" (2024), a movement performance created in collaboration with a group of local performers. The work unfolded through the formation of \"empty spaces,\" focusing on what emerges between people rather than on fixed objects or outcomes.</p><p>Through their gestures, the performers appeared to be working on something intangible. Seemingly invisible objects became perceptible through movement, while collective action proved essential. Structures surfaced through shared activity and were continuously reshaped in the process. Yet each performer carried their own idea of the object, their own questions, and their own interpretations.</p><p>Alongside the performance, Brück hosted an artist talk and workshop with Master's degree students from the Faculty of Painting, Sculpture and Graphic Arts at Silpakorn University. This exchange extended her residency into a space of exchange, offering students the opportunity to engage directly with her methods and questions around collectivity, abstraction, and the possibilities of performance.</p>",
+    "date": "",
     "featuredImage": null,
-    "gallery": [],
+    "gallery": [
+      "https://irp.cdn-website.com/5516674f/dms3rep/multi/Puma_Images+for+Website-Bangkok+Kunsthalle+Images+for+Website-6.+Residency-6.2+Natalie+Br%C3%BCck--Working+On+The+Imaginary+Object-+Sivakorn+Charoenyothin+3.jpg",
+      "https://irp.cdn-website.com/5516674f/dms3rep/multi/Puma_Images+for+Website-Bangkok+Kunsthalle+Images+for+Website-6.+Residency-6.2+Natalie+Br%C3%BCck--Working+On+The+Imaginary+Object-+Sivakorn+Charoenyothin+2.jpg",
+      "https://irp.cdn-website.com/5516674f/dms3rep/multi/Puma_Images+for+Website-Bangkok+Kunsthalle+Images+for+Website-6.+Residency-6.2+Natalie+Br%C3%BCck--Working+On+The+Imaginary+Object-+Sivakorn+Charoenyothin+1.jpg",
+      "https://irp.cdn-website.com/5516674f/dms3rep/multi/Puma_Images+for+Website-Bangkok+Kunsthalle+Images+for+Website-6.+Residency-6.2+Natalie+Br%C3%BCck--Working+On+The+Imaginary+Object-+Sivakorn+Charoenyothin+6.jpg",
+      "https://irp.cdn-website.com/5516674f/dms3rep/multi/Puma_Images+for+Website-Bangkok+Kunsthalle+Images+for+Website-6.+Residency-6.2+Natalie+Br%C3%BCck--Working+On+The+Imaginary+Object-+Sivakorn+Charoenyothin+5.jpg"
+    ],
     "acf": {
-      "title_th": "นาตาลี บรัค",
-      "from_date": "2025-03-01",
-      "to_date": "2025-08-31",
-      "date_display": "March – August 2025",
-      "date_display_th": "มีนาคม – สิงหาคม 2568"
+      "title_th": "Natalie Brück",
+      "artist": "Natalie Brück",
+      "artist_th": "Natalie Brück",
+      "from_date": "",
+      "to_date": "",
+      "date_display": "",
+      "date_display_th": "",
+      "nationality": "",
+      "nationality_th": "",
+      "content_th": "<p>นาตาลี บรึค (เกิดปี 1989, เยอรมนี) เป็นศิลปินสหสาขาวิชาที่อาศัยอยู่ในเบอร์ลิน ผลงานของเธอครอบคลุมการแสดง วิดีโอ ชิ้นงานที่พูด และการจัดวาง โดยมุ่งเน้นที่กระบวนการที่เกิดขึ้นระหว่างผู้คนมากกว่าวัตถุหรือผลลัพธ์ที่คงที่ บรึคศึกษาที่ Hochschule der Bildenden Künste Saar และที่ Academy of Fine Arts Munich ซึ่งเธอพัฒนาการปฏิบัติแบบการแสดงที่ทำงานกับภาษา ร่างกาย และโครงสร้างเชิงพื้นที่</p><p>การติดตั้งของเธอมักรวมวัตถุที่พบและสภาพแวดล้อมที่สร้างขึ้น สร้างสถานการณ์การรับรู้ที่เชิญชวนให้ผู้ชมสะท้อนตำแหน่ง ความสนใจ และประสบการณ์ของตนเอง ผลงานของบรึคถูกนำเสนอในบริบทการจัดแสดงและพื้นที่การแสดงต่างๆ</p><p>ในฐานะส่วนหนึ่งของการพำนักในปี 2024 ที่บางกอก คุนสท์ฮัลเล่ บรึคพัฒนา \"Working On The Imaginary Object\" (2024) การแสดงการเคลื่อนไหวที่สร้างขึ้นร่วมกับกลุ่มนักแสดงท้องถิ่น ผลงานเปิดเผยผ่านการก่อตัวของ \"พื้นที่ว่างเปล่า\" โดยมุ่งเน้นที่สิ่งที่เกิดขึ้นระหว่างผู้คนมากกว่าวัตถุหรือผลลัพธ์ที่คงที่</p><p>ผ่านท่าทางของพวกเขา นักแสดงดูเหมือนกำลังทำงานกับสิ่งที่จับต้องไม่ได้ วัตถุที่ดูเหมือนมองไม่เห็นกลายเป็นสิ่งที่รับรู้ได้ผ่านการเคลื่อนไหว ในขณะที่การกระทำร่วมกันพิสูจน์ว่าเป็นสิ่งสำคัญ โครงสร้างผุดขึ้นมาผ่านกิจกรรมที่แบ่งปันและถูกปรับรูปอย่างต่อเนื่องในกระบวนการ อย่างไรก็ตาม นักแสดงแต่ละคนมีแนวคิดของตนเองเกี่ยวกับวัตถุ คำถามของตนเอง และการตีความของตนเอง</p><p>นอกเหนือจากการแสดง บรึคจัดการพูดคุยของศิลปินและเวิร์คช็อปกับนักศึกษาระดับปริญญาโทจากคณะจิตรกรรม ประติมากรรม และภาพพิมพ์ มหาวิทยาลัยศิลปากร การแลกเปลี่ยนนี้ขยายการพำนักของเธอไปสู่พื้นที่แห่งการแลกเปลี่ยน เสนอโอกาสให้นักศึกษามีส่วนร่วมโดยตรงกับวิธีการและคำถามของเธอเกี่ยวกับความเป็นส่วนรวม นามธรรม และความเป็นไปได้ของการแสดง</p>"
     }
   },
   {
@@ -41,16 +84,244 @@
     "slug": "cole-lu",
     "type": "residency",
     "title": "Cole Lu",
-    "content": "<p>Cole Lu is an artist and writer whose practice spans text, sound, and moving image.</p>",
-    "date": "2025-06-01",
+    "content": "<p>Cole Lu (b. 1984, Taiwan) melds historical and literary references with personal experience to tell stories of dissonance and longing through twirling odysseys of ancient mythologies echoing trauma, transformation, and regeneration. His sculptures and paintings—burnt wood panels, linen, engraved metal, and concrete—depict elaborate mythological retellings. Through pyrography (writing with fire) and expansive, subversive titles, Lu returns to storytelling's poetic origins, liberating his work from linear hierarchies of thought and form. The meditative, laborious repetition of burning spans intimate to immersive scales, building worlds where mythological and autobiographical converge and are reborn.</p><p>In partnership with Nova Contemporary, Bangkok Kunsthalle hosted Lu as artist in residence in October 2024.</p><p>Raised in a literary household—his father a university librarian—Lu's relationship to books and text informs his pyrographic practice of meticulously burnt wood and linen. Fire operates as a generative force, echoing trauma, transformation, and renewal. His medium resonated with the fiery history of the Watana Panich building, activating memory through fire and text in works produced during the residency.</p><p>This residency culminated in \"The Engineers\" (2024), a site-specific installation at the Museum & Library of Abbots of Wat Bowonniwet Vihara, presented as part of the Bangkok Art Biennale 2024, and included a discussion with Hera Chan, Adjunct Curator, Asia-Pacific, supported by Asymmetry, at Tate and co-curator of Thailand Biennale Phuket 2025, in which the two examined Lu's engagement with materiality, alchemy, writing, and themes of portals, exile, diaspora, and history.</p>",
+    "date": "",
     "featuredImage": null,
-    "gallery": [],
+    "gallery": [
+      "https://irp.cdn-website.com/5516674f/dms3rep/multi/Puma_Images+for+Website-Bangkok+Kunsthalle+Images+for+Website-6.+Residency-6.3+Cole+Lu--Cole+Lu-+The+Engineers-+Kanrapee+Chokpaiboon+2.jpg",
+      "https://irp.cdn-website.com/5516674f/dms3rep/multi/Puma_Images+for+Website-Bangkok+Kunsthalle+Images+for+Website-6.+Residency-6.3+Cole+Lu--Cole+Lu-+The+Engineers-+Kanrapee+Chokpaiboon+20.jpg",
+      "https://irp.cdn-website.com/5516674f/dms3rep/multi/Puma_Images+for+Website-Bangkok+Kunsthalle+Images+for+Website-6.+Residency-6.3+Cole+Lu--Cole+Lu-+The+Engineers-+Kanrapee+Chokpaiboon+19.jpg",
+      "https://irp.cdn-website.com/5516674f/dms3rep/multi/Puma_Images+for+Website-Bangkok+Kunsthalle+Images+for+Website-6.+Residency-6.3+Cole+Lu--The+Engineers-+Krittawat+Atthsis+and+Puttisin+Choojesroom+2.jpg",
+      "https://irp.cdn-website.com/5516674f/dms3rep/multi/Puma_Images+for+Website-Bangkok+Kunsthalle+Images+for+Website-6.+Residency-6.3+Cole+Lu--The+Engineers-+Krittawat+Atthsis+and+Puttisin+Choojesroom+3.jpg"
+    ],
     "acf": {
-      "title_th": "โคล ลู",
-      "from_date": "2025-06-01",
-      "to_date": "2025-12-31",
-      "date_display": "June – December 2025",
-      "date_display_th": "มิถุนายน – ธันวาคม 2568"
+      "title_th": "Cole Lu",
+      "artist": "Cole Lu",
+      "artist_th": "Cole Lu",
+      "from_date": "",
+      "to_date": "",
+      "date_display": "",
+      "date_display_th": "",
+      "nationality": "",
+      "nationality_th": "",
+      "content_th": "<p>โคล ลู (เกิดปี 1984, ไต้หวัน) ผสมผสานการอ้างอิงทางประวัติศาสตร์และวรรณกรรมกับประสบการณ์ส่วนตัวเพื่อบอกเล่าเรื่องราวของความไม่ลงรอยและความปรารถนาผ่านการเดินทางที่หมุนวนของตำนานโบราณที่สะท้อนบาดแผล การเปลี่ยนแปลง และการฟื้นฟู ประติมากรรมและภาพวาดของเขา แผงไม้เผา ผ้าลินิน โลหะสลัก และคอนกรีต พรรณนาถึงการเล่าเรื่องตำนานที่ซับซ้อน ผ่านการเขียนด้วยไฟ (pyrography) และชื่อที่กว้างขวางและล้มล้าง ลูกลับไปสู่ต้นกำเนิดทางกวีของการเล่าเรื่อง ปลดปล่อยผลงานของเขาจากลำดับชั้นเชิงเส้นของความคิดและรูปแบบ การทำซ้ำที่ใช้แรงงานและไตร่ตรองของการเผาครอบคลุมตั้งแต่ขนาดที่ใกล้ชิดไปจนถึงขนาดที่ดื่มด่ำ สร้างโลกที่ตำนานและชีวประวัติมาบรรจบกันและเกิดใหม่</p><p>ร่วมกับ Nova Contemporary บางกอก คุนสท์ฮัลเล่ต้อนรับลูในฐานะศิลปินพำนักในเดือนตุลาคม 2024</p><p>ลูเติบโตในครอบครัวที่รักการอ่าน บิดาของเขาเป็นบรรณารักษ์มหาวิทยาลัย ความสัมพันธ์ของลูกับหนังสือและข้อความแจ้งให้ทราบถึงการปฏิบัติการเขียนด้วยไฟของเขาในการเผาไม้และผ้าลินินอย่างพิถีพิถัน ไฟทำงานเป็นพลังที่สร้างสรรค์ สะท้อนบาดแผล การเปลี่ยนแปลง และการฟื้นฟู สื่อของเขาสะท้อนกับประวัติศาสตร์ที่เกี่ยวกับไฟของอาคารวัฒนาพานิช กระตุ้นความทรงจำผ่านไฟและข้อความในผลงานที่ผลิตในระหว่างการพำนัก</p><p>การพำนักนี้สิ้นสุดลงด้วย \"The Engineers\" (2024) การติดตั้งเฉพาะสถานที่ที่พิพิธภัณฑ์และหอสมุดของเจ้าอาวาสวัดบวรนิเวศวิหาร นำเสนอเป็นส่วนหนึ่งของ Bangkok Art Biennale 2024 และรวมถึงการอภิปรายกับ Hera Chan ภัณฑารักษ์เสริม เอเชีย-แปซิฟิก ได้รับการสนับสนุนโดย Asymmetry ที่ Tate และผู้ร่วมดูแลของ Thailand Biennale Phuket 2025 ซึ่งทั้งสองตรวจสอบการมีส่วนร่วมของลูกับความเป็นวัตถุ การเล่นแร่แปรธาตุ การเขียน และธีมของพอร์ทัล การเนรเทศ ชนกลุ่มน้อย และประวัติศาสตร์</p>"
+    }
+  },
+  {
+    "id": "9",
+    "slug": "nicolas-amato",
+    "type": "residency",
+    "title": "Nicolas Amato",
+    "content": "<p>During his residency at Bangkok Kunsthalle, Nicolas Amato (b. 1986) recognized the presence of a serpent stretching along the green terrazzo banister across four flights of stairs. The figure did not arrive as an imposition but as a revelation—something latent within the building's architecture waiting to be uncovered.</p><p>Amato's intervention took the form of polishing, a gesture that became the work itself. Rather than adding, he attuned to the materiality of the space, dissolving into its surfaces and amplifying the overlooked. The serpent inhabits thresholds and liminal zones, guiding circulation while inviting pause. The project also aligned with Bangkok Kunsthalle's curatorial program of architectural intervention: domesticating the building through art. By refining rather than inscribing, Amato rendered the familiar unfamiliar, transforming stairs and landings into intentional sites of presence.</p><p>Amato's work privileges subtlety over spectacle. The serpent here is not representation but a spatial device—an elemental figure that makes surfaces luminous, gestures precious, and the overlooked newly significant</p>",
+    "date": "",
+    "featuredImage": null,
+    "gallery": [
+      "https://irp.cdn-website.com/5516674f/dms3rep/multi/Puma_Images+for+Website-Bangkok+Kunsthalle+Images+for+Website-6.+Residency-6.4+Nicolas+Amato--Unwinding+Architecture-+Bangkok+Kunsthalle+7.jpg",
+      "https://irp.cdn-website.com/5516674f/dms3rep/multi/Puma_Images+for+Website-Bangkok+Kunsthalle+Images+for+Website-6.+Residency-6.4+Nicolas+Amato--Unwinding+Architecture-+Bangkok+Kunsthalle+1.jpg",
+      "https://irp.cdn-website.com/5516674f/dms3rep/multi/Puma_Images+for+Website-Bangkok+Kunsthalle+Images+for+Website-6.+Residency-6.4+Nicolas+Amato--Unwinding+Architecture-+Bangkok+Kunsthalle+16.jpg",
+      "https://irp.cdn-website.com/5516674f/dms3rep/multi/Puma_Images+for+Website-Bangkok+Kunsthalle+Images+for+Website-6.+Residency-6.4+Nicolas+Amato--Unwinding+Architecture-+Bangkok+Kunsthalle+9.jpg"
+    ],
+    "acf": {
+      "title_th": "Nicolas Amato",
+      "artist": "Nicolas Amato",
+      "artist_th": "Nicolas Amato",
+      "from_date": "",
+      "to_date": "",
+      "date_display": "",
+      "date_display_th": "",
+      "nationality": "",
+      "nationality_th": "",
+      "content_th": "<p>ในระหว่างการพำนักที่บางกอก คุนสท์ฮัลเล่ นิโกลาส อามาโต (เกิดปี 1986) รับรู้การแสดงตนของงูที่ยืดตัวตามราวบันไดเทอราสโซ่สีเขียวข้ามบันไดสี่ชุด รูปไม่มาถึงเป็นการบังคับ แต่เป็นการเปิดเผย สิ่งที่แฝงอยู่ภายในสถาปัตยกรรมของอาคารรอที่จะถูกเปิด</p><p>การแทรกแซงของอามาโตมีรูปแบบของการขัด ท่าทางที่กลายเป็นงานเอง แทนที่จะเพิ่ม เขาปรับให้เข้ากับความเป็นวัตถุของพื้นที่ ละลายเข้าสู่พื้นผิวและขยายสิ่งที่มองข้าม งูอาศัยอยู่ในเกณฑ์และโซนขอบเขต นำการไหลเวียนในขณะที่เชิญชวนให้หยุดชั่วคราว โครงการยังสอดคล้องกับโปรแกรมการดูแลของบางกอก คุนสท์ฮัลเล่ของการแทรกแซงสถาปัตยกรรม ทำให้อาคารเป็นบ้านผ่านศิลปะ โดยการปรับแต่งมากกว่าการจารึก อามาโตทำให้สิ่งที่คุ้นเคยไม่คุ้นเคย เปลี่ยนบันไดและพื้นที่ลงจอดให้เป็นสถานที่ที่ตั้งใจของการแสดงตน</p><p>ผลงานของอามาโตให้ความสำคัญกับความละเอียดอ่อนมากกว่าความงดงาม งูที่นี่ไม่ใช่การเป็นตัวแทน แต่เป็นอุปกรณ์เชิงพื้นที่ รูปองค์ประกอบที่ทำให้พื้นผิวมีความสว่าง ท่าทางมีค่า และสิ่งที่มองข้ามมีความสำคัญใหม่</p>"
+    }
+  },
+  {
+    "id": "4",
+    "slug": "anthony-huberman",
+    "type": "residency",
+    "title": "Anthony Huberman",
+    "content": "<p>Anthony Huberman (b. 1975, Switzerland) is a curator and writer currently living in New York, where he is the Executive Artistic Director of Giorno Poetry Systems and Visiting Faculty at CCS Bard. He was Director and Chief Curator of CCA Wattis Institute for Contemporary Arts in San Francisco, Founding Director of The Artist's Institute in New York, and Curator at the Contemporary Art Museum St. Louis, Palais de Tokyo, and SculptureCenter. He has curated exhibitions at Wiels in Brussels, Raven Row in London, MoMA PS1 in New York, KW in Berlin, and Macro in Rome, among others.</p><p>During his residency at Bangkok Kunsthalle, Huberman conducted in-depth research into the local art scene, visiting institutions, artist studios, and estates. Concluding his time, Huberman presented a talk titled \"An Artist Led Approach\" (2025), where he shared insights on how institutions can learn from artists and follow their lead, drawing on examples from artists he has collaborated with and learned from, and showcasing exhibitions he has curated and institutions he has directed in the United States and Europe in recent years.</p>",
+    "date": "",
+    "featuredImage": null,
+    "gallery": [
+      "https://irp.cdn-website.com/5516674f/dms3rep/multi/Puma_Images+for+Website-Bangkok+Kunsthalle+Images+for+Website-6.+Residency-6.5+Anthony+Huberman--An+Artist+Led+Approach-+Bangkok+Kunsthalle+1.jpg",
+      "https://irp.cdn-website.com/5516674f/dms3rep/multi/Puma_Images+for+Website-Bangkok+Kunsthalle+Images+for+Website-6.+Residency-6.5+Anthony+Huberman--An+Artist+Led+Approach-+Bangkok+Kunsthalle+2.jpg",
+      "https://irp.cdn-website.com/5516674f/dms3rep/multi/Puma_Images+for+Website-Bangkok+Kunsthalle+Images+for+Website-6.+Residency-6.5+Anthony+Huberman--An+Artist+Led+Approach-+Bangkok+Kunsthalle+4.jpg"
+    ],
+    "acf": {
+      "title_th": "Anthony Huberman",
+      "artist": "Anthony Huberman",
+      "artist_th": "Anthony Huberman",
+      "from_date": "",
+      "to_date": "",
+      "date_display": "",
+      "date_display_th": "",
+      "nationality": "",
+      "nationality_th": "",
+      "content_th": "<p>แอนโทนี ฮิวเบอร์แมน (เกิดปี 1975, สวิตเซอร์แลนด์) เป็นภัณฑารักษ์และนักเขียนที่อาศัยอยู่ในนิวยอร์กในปัจจุบัน ซึ่งเขาเป็นผู้อำนวยการฝ่ายศิลปะบริหารของ Giorno Poetry Systems และคณาจารย์พิเศษที่ CCS Bard เขาเคยเป็นผู้อำนวยการและหัวหน้าภัณฑารักษ์ของ CCA Wattis Institute for Contemporary Arts ในซานฟรานซิสโก ผู้อำนวยการผู้ก่อตั้งของ The Artist's Institute ในนิวยอร์ก และภัณฑารักษ์ที่ Contemporary Art Museum St. Louis, Palais de Tokyo และ SculptureCenter เขาดูแลการจัดแสดงที่ Wiels ในบรัสเซลส์, Raven Row ในลอนดอน, MoMA PS1 ในนิวยอร์ก, KW ในเบอร์ลิน และ Macro ในโรม เป็นต้น</p><p>ในระหว่างการพำนักที่บางกอก คุนสท์ฮัลเล่ ฮิวเบอร์แมนทำการวิจัยเชิงลึกเกี่ยวกับฉากศิลปะท้องถิ่น เยี่ยมชมสถาบัน สตูดิโอศิลปิน และที่ดิน เมื่อสิ้นสุดเวลาของเขา ฮิวเบอร์แมนนำเสนอการพูดคุยชื่อ \"An Artist Led Approach\" (2025) ซึ่งเขาแบ่งปันความเข้าใจเกี่ยวกับวิธีที่สถาบันสามารถเรียนรู้จากศิลปินและติดตามนำของพวกเขา โดยอิงจากตัวอย่างจากศิลปินที่เขาทำงานร่วมกันและเรียนรู้จาก และแสดงการจัดแสดงที่เขาดูแลและสถาบันที่เขาเป็นผู้อำนวยการในสหรัฐอเมริกาและยุโรปในช่วงไม่กี่ปีที่ผ่านมา</p>"
+    }
+  },
+  {
+    "id": "5",
+    "slug": "spencer-sweeney",
+    "type": "residency",
+    "title": "Spencer Sweeney",
+    "content": "<p>Spencer Sweeney (b. 1973, USA) is a painter/musician who also creates multimedia environments, turning galleries into workshops and stages, exposing the artist's studio to public view. Born in Philadelphia, he graduated from the Pennsylvania Academy of the Fine Arts in 1997. He moved to New York and started showing at American Fine Arts gallery and collaborated with Colin Deland and Lizzi Bougatsos in forming the noise-art group \"Actress\". Influenced by jazz and popular culture, his work references artists like Picabia, Bob Thompson, and Matisse. In 2015, he published a 500-page book of conversations. His salon, \"Headz\", hosts experimental jazz performances globally. Sweeney's current work embraces \"\"availablism,\"\" blending psychological directness with a dynamic creative process.</p><p>During his residency at Bangkok Kunsthalle, Sweeney initiated a sequence of activations, from a moving-image program to live performances conceived as listening sessions, reanimating the Kunsthalle's historic building as a site of cultural convergence and bridging New York City nightlife with Bangkok's emergent creative energy.</p><p>\"Living Cinematheque\" (2025) brought together films spanning eras and modes of experimentation, including \"Ornette: Made in America\" by Shirley Clarke and \"Testament of Orpheus\" by Jean Cocteau.</p><p>With \"Disco Hut\" (2025), he hosted an extended listening session that transformed the space into an intimate sound lounge animated by soft lights and shared attention. For Sweeney, the artwork is the studio itself, a site of experimentation and hospitality, while the paintings remain poetic residues of encounters, gestures, and shared time that extend beyond the canvas.</p>",
+    "date": "",
+    "featuredImage": null,
+    "gallery": [
+      "https://irp.cdn-website.com/5516674f/dms3rep/multi/Puma_Images+for+Website-Bangkok+Kunsthalle+Images+for+Website-6.+Residency--Living+Cinematheque-+Prapasiri+Kasemkijkajorn+6.jpg",
+      "https://irp.cdn-website.com/5516674f/dms3rep/multi/Puma_Images+for+Website-Bangkok+Kunsthalle+Images+for+Website-6.+Residency-6.6+Spencer+Sweeney--Living+Cinematheque-+Prapasiri+Kasemkijkajorn+5.jpg",
+      "https://irp.cdn-website.com/5516674f/dms3rep/multi/Puma_Images+for+Website-Bangkok+Kunsthalle+Images+for+Website-6.+Residency-6.6+Spencer+Sweeney--Living+Cinematheque-+Prapasiri+Kasemkijkajorn+6.jpg",
+      "https://irp.cdn-website.com/5516674f/dms3rep/multi/Puma_Images+for+Website-Bangkok+Kunsthalle+Images+for+Website-6.+Residency-6.6+Spencer+Sweeney--Disco+Hut-+Prapasiri+Kasemkijkajorn.jpg"
+    ],
+    "acf": {
+      "title_th": "Spencer Sweeney",
+      "artist": "Spencer Sweeney",
+      "artist_th": "Spencer Sweeney",
+      "from_date": "",
+      "to_date": "",
+      "date_display": "",
+      "date_display_th": "",
+      "nationality": "",
+      "nationality_th": "",
+      "content_th": "<p>สเปนเซอร์ สวีนีย์ (เกิดปี 1973, สหรัฐอเมริกา) เป็นจิตรกร/นักดนตรีที่ยังสร้างสภาพแวดล้อมมัลติมีเดีย เปลี่ยนแกลเลอรีเป็นเวิร์คช็อปและเวที เปิดเผยสตูดิโอของศิลปินให้สาธารณชนดู เกิดในฟิลาเดลเฟีย เขาสำเร็จการศึกษาจาก Pennsylvania Academy of the Fine Arts ในปี 1997 เขาย้ายไปนิวยอร์กและเริ่มแสดงที่แกลเลอรี American Fine Arts และทำงานร่วมกับ Colin Deland และ Lizzi Bougatsos ในการก่อตั้งกลุ่มศิลปะเสียงรบกวน \"Actress\" ได้รับอิทธิพลจากแจ๊สและวัฒนธรรมสมัยนิยม ผลงานของเขาอ้างอิงศิลปินเช่น Picabia, Bob Thompson และ Matisse ในปี 2015 เขาตีพิมพ์หนังสือบทสนทนา 500 หน้า ซาลอนของเขา \"Headz\" จัดการแสดงแจ๊สทดลองทั่วโลก ผลงานปัจจุบันของสวีนีย์ยอมรับ \"availablism\" ผสมผสานความตรงไปตรงมาทางจิตวิทยากับกระบวนการสร้างสรรค์แบบไดนามิก</p><p>ในระหว่างการพำนักที่บางกอก คุนสท์ฮัลเล่ สวีนีย์เริ่มต้นลำดับของการกระตุ้น ตั้งแต่โปรแกรมภาพเคลื่อนไหวไปจนถึงการแสดงสดที่คิดเป็นเซสชันการฟัง ทำให้อาคารประวัติศาสตร์ของคุนสท์ฮัลเล่กลับมามีชีวิตอีกครั้งในฐานะสถานที่บรรจบกันของวัฒนธรรมและเชื่อมโยงชีวิตยามค่ำคืนของนิวยอร์กซิตี้กับพลังงานสร้างสรรค์ที่เกิดขึ้นใหม่ของกรุงเทพฯ</p><p>\"Living Cinematheque\" (2025) รวมภาพยนตร์ที่ครอบคลุมยุคและโหมดการทดลอง รวมถึง \"Ornette: Made in America\" โดย Shirley Clarke และ \"Testament of Orpheus\" โดย Jean Cocteau</p><p>ด้วย \"Disco Hut\" (2025) เขาจัดเซสชันฟังแบบขยายที่เปลี่ยนพื้นที่เป็นเลานจ์เสียงที่ใกล้ชิดซึ่งมีชีวิตชีวาด้วยไฟอ่อนและความสนใจที่แบ่งปัน สำหรับสวีนีย์ งานศิลปะคือสตูดิโอเอง สถานที่ของการทดลองและการต้อนรับ ในขณะที่ภาพวาดยังคงเป็นสารตกค้างทางกวีของการพบกัน ท่าทาง และเวลาที่แบ่งปันที่ขยายเกินกว่าผืนผ้าใบ</p>"
+    }
+  },
+  {
+    "id": "6",
+    "slug": "luca-lo-pinto",
+    "type": "residency",
+    "title": "Luca Lo Pinto",
+    "content": "<p>Luca Lo Pinto (b. 1981, Italy) is an Italian editor and curator, Artistic Director of the Museum of Contemporary Art of Rome, and co-founder of NERO. From 2014 to 2019 he was curator at Kunsthalle Wien, where he organized solo exhibitions of Nathalie Du Pasquier, Camille Henrot, and Olaf Nicolai, among others, as well as group exhibitions including \"Time is Thirsty\" and \"Publishing as an artistic toolbox: 1989–2017.\" Other projects include the 16th Art Quadriennale at Palazzo delle Esposizioni and \"Antigrazioso\" at Palais de Tokyo. He has written widely and edited \"Documenta 1955–2012\" and artist books, publishing the time-capsule \"2014\" in 2014.</p><p>During his residency, sponsored by the Istituto Italiano di Cultura and art4d, Luca Lo Pinto hosted an art talk and workshop at Bangkok Kunsthalle.</p><p>\"From Display to Discourse: Expanding the Role of the Curator\" (2025), introduced by Dr. Maria Sica, examined exhibition-making as constructing situations with multiple visual and conceptual entry points. Rather than a display of objects, exhibitions become negotiations among human and non-human agents, time, architecture, light, sound, and smell, inviting viewers to unlearn the familiar.</p><p>The curatorial workshop further reconsidered institutions not as neutral spaces but as contested sites for inquiry, critical reflection, and coexistence, keeping artists central while embracing in-betweenness across disciplines.</p>",
+    "date": "",
+    "featuredImage": null,
+    "gallery": [
+      "https://irp.cdn-website.com/5516674f/dms3rep/multi/Puma_Images+for+Website-Bangkok+Kunsthalle+Images+for+Website-6.+Residency-6.7+Luca+Lo+Pinto--From+Display+to+Discourse-+Bangkok+Kunsthalle+4.jpg",
+      "https://irp.cdn-website.com/5516674f/dms3rep/multi/Puma_Images+for+Website-Bangkok+Kunsthalle+Images+for+Website-6.+Residency-6.7+Luca+Lo+Pinto--From+Display+to+Discourse-+Bangkok+Kunsthalle+7.jpg",
+      "https://irp.cdn-website.com/5516674f/dms3rep/multi/Puma_Images+for+Website-Bangkok+Kunsthalle+Images+for+Website-6.+Residency-6.7+Luca+Lo+Pinto--From+Display+to+Discourse-+Bangkok+Kunsthalle+5.jpg"
+    ],
+    "acf": {
+      "title_th": "Luca Lo Pinto",
+      "artist": "Luca Lo Pinto",
+      "artist_th": "Luca Lo Pinto",
+      "from_date": "",
+      "to_date": "",
+      "date_display": "",
+      "date_display_th": "",
+      "nationality": "",
+      "nationality_th": "",
+      "content_th": "<p>ลูก้า โล ปินโต (เกิดปี 1981, อิตาลี) เป็นบรรณาธิการและภัณฑารักษ์ชาวอิตาลี ผู้อำนวยการฝ่ายศิลปะของพิพิธภัณฑ์ศิลปะร่วมสมัยแห่งกรุงโรม และผู้ร่วมก่อตั้ง NERO ตั้งแต่ปี 2014 ถึง 2019 เขาเป็นภัณฑารักษ์ที่ Kunsthalle Wien ซึ่งเขาจัดนิทรรศการเดี่ยวของ Nathalie Du Pasquier, Camille Henrot และ Olaf Nicolai เป็นต้น รวมถึงนิทรรศการกลุ่มรวมถึง \"Time is Thirsty\" และ \"Publishing as an artistic toolbox: 1989–2017\" โครงการอื่นๆ รวมถึง Art Quadriennale ครั้งที่ 16 ที่ Palazzo delle Esposizioni และ \"Antigrazioso\" ที่ Palais de Tokyo เขาเขียนอย่างกว้างขวางและแก้ไข \"Documenta 1955–2012\" และหนังสือศิลปิน ตีพิมพ์แคปซูลเวลา \"2014\" ในปี 2014</p><p>ในระหว่างการพำนักของเขา ได้รับการสนับสนุนจาก Istituto Italiano di Cultura และ art4d ลูก้า โล ปินโตจัดการพูดคุยศิลปะและเวิร์คช็อปที่บางกอก คุนสท์ฮัลเล่</p><p>\"From Display to Discourse: Expanding the Role of the Curator\" (2025) แนะนำโดย Dr. Maria Sica ตรวจสอบการสร้างนิทรรศการเป็นการสร้างสถานการณ์ที่มีจุดเข้���ทางภาพและแนวคิดหลายจุด แทนที่จะเป็นการแสดงวัตถุ นิทรรศการกลายเป็นการเจรจาระหว่างตัวแทนมนุษย์และไม่ใช่มนุษย์ เวลา สถาปัตยกรรม แสง เสียง และกลิ่น เชิญชวนผู้ชมให้เลิกเรียนรู้สิ่งที่คุ้นเคย</p><p>เวิร์คช็อปการดูแลยังพิจารณาสถาบันใหม่ไม่ใช่พื้นที่ที่เป็นกลาง แต่เป็นสถานที่ที่มีการโต้แย้งสำหรับการสอบถาม การสะท้อนเชิงวิจารณ์ และการอยู่ร่วมกัน โดยเก็บศิลปินไว้ที่ศูนย์กลางในขณะที่ยอมรับความเป็นระหว่างข้ามสาขาวิชา</p>"
+    }
+  },
+  {
+    "id": "7",
+    "slug": "eduardo-williams",
+    "type": "residency",
+    "title": "Eduardo Williams",
+    "content": "<p>Eduardo Williams (b. 1987, Argentina) is an award-winning filmmaker and video artist currently based in Paris, France. Writing for e-flux, George Macbeth states, \"Williams isn't a filmmaker content with slipping into the straitjacket of a restrained or recognizable arthouse vernacular.\" Indeed, Williams has received recognition from the Lincoln Center, Harvard University, and his films have premiered at the world's most prestigious film festivals, including Cannes, Locarno, NYFF, and TIFF.</p><p>His debut feature, \"El auge del humano\" (The Human Surge, 2016) received critical acclaim and won the Golden Leopard in the \"Filmmakers of the Present\" section at the Locarno Film Festival.</p><p>The experience of Bangkok inspired Williams to shoot a new video work, scheduled for 2027, continuing his investigation of space by destabilizing nearness and distance. From the rooftop of Bangkok Kunsthalle, he filmed intimate conversations between strangers with a powerful zoom lens, adopting the position of an urban voyeur. The work interweaves footage from three cities across continents, collapsing geographies into a fluid spatial continuum.</p><p>During his residency, Williams hosted screenings and an intimate artist hangout reflecting his collaborative approach. The program featured \"El auge del humano\" (The Human Surge), \"El auge del humano 3\" (The Human Surge 3, 2023), and \"Parsi\" (2018), tracing movements of people and images across physical and virtual borders. Informal gatherings with local artists fostered dialogue on experimental cinema as an evolving, collective process. The residency concluded with \"Un gif larguísimo\", looped in the Screening Room, extending his exploration of perception and interiority.</p>",
+    "date": "",
+    "featuredImage": null,
+    "gallery": [
+      "https://irp.cdn-website.com/5516674f/dms3rep/multi/Puma_Images+for+Website-Bangkok+Kunsthalle+Images+for+Website-6.+Residency-6.8+Eduardo+Williams--A+Very+Long+Gif-+Patsu+Supakajohnwanich+2.jpg",
+      "https://irp.cdn-website.com/5516674f/dms3rep/multi/Puma_Images+for+Website-Bangkok+Kunsthalle+Images+for+Website-6.+Residency-6.8+Eduardo+Williams--Teddy+workshop-+Krittawat+Atthsis+16.jpg",
+      "https://irp.cdn-website.com/5516674f/dms3rep/multi/Puma_Images+for+Website-Bangkok+Kunsthalle+Images+for+Website-6.+Residency-6.8+Eduardo+Williams--Teddy+workshop-+Krittawat+Atthsis+3.jpg",
+      "https://irp.cdn-website.com/5516674f/dms3rep/multi/Puma_Images+for+Website-Bangkok+Kunsthalle+Images+for+Website-6.+Residency-6.8+Eduardo+Williams--Teddy+workshop-+Krittawat+Atthsis+10.jpg",
+      "https://irp.cdn-website.com/5516674f/dms3rep/multi/Puma_Images+for+Website-Bangkok+Kunsthalle+Images+for+Website-6.+Residency-6.8+Eduardo+Williams--Parsi14+copy.jpg"
+    ],
+    "acf": {
+      "title_th": "Eduardo Williams",
+      "artist": "Eduardo Williams",
+      "artist_th": "Eduardo Williams",
+      "from_date": "",
+      "to_date": "",
+      "date_display": "",
+      "date_display_th": "",
+      "nationality": "",
+      "nationality_th": "",
+      "content_th": "<p>เอดูอาร์โด วิลเลียมส์ (เกิดปี 1987, อาร์เจนตินา) เป็นผู้สร้างภาพยนตร์และศิลปินวิดีโอที่ได้รับรางวัลซึ่งปัจจุบันอาศัยอยู่ในปารีส ฝรั่งเศส เขียนสำหรับ e-flux, George Macbeth กล่าวว่า \"Williams ไม่ใช่ผู้สร้างภาพยนตร์ที่พอใจกับการลื่นไถลเข้าสู่เสื้อรัดกุมของภาษาพูดศิลปะบ้านที่สำรองหรือจำได้\" จริงๆ แล้ว Williams ได้รับการยอมรับจาก Lincoln Center, Harvard University และภาพยนตร์ของเขาได้รับการฉายรอบปฐมทัศน์ในเทศกาลภาพยนตร์ที่มีชื่อเสียงที่สุดในโลก รวมถึง Cannes, Locarno, NYFF และ TIFF</p><p>ภาพยนตร์เรื่องแรกของเขา \"El auge del humano\" (The Human Surge, 2016) ได้รับคำชมเชยจากนักวิจารณ์และชนะ Golden Leopard ในส่วน \"Filmmakers of the Present\" ที่เทศกาลภาพยนตร์ Locarno</p><p>ประสบการณ์ของกรุงเทพฯ เป็นแรงบันดาลใจให้ Williams ถ่ายผลงานวิดีโอใหม่ กำหนดไว้สำหรับปี 2027 ดำเนินการสืบสวนพื้นที่ของเขาต่อไปโดยทำให้ความใกล้ชิดและระยะทางไม่มั่นคง จากดาดฟ้าของบางกอก คุนสท์ฮัลเล่ เขาถ่ายภาพการสนทนาที่ใกล้ชิดระหว่างคนแปลกหน้าด้วยเลนส์ซูมที่ทรงพลัง นำตำแหน่งของการแอบดูในเมือง ผลงานทอผ้าฟุตเทจจากสามเมืองข้ามทวีป ยุบภูมิศาสตร์เข้าสู่ความต่อเนื่องเชิงพื้นที่ที่ไหลลื่น</p><p>ในระหว่างการพำนัก Williams จัดการฉายและการพบปะศิลปินที่ใกล้ชิดสะท้อนแนวทางความร่วมมือของเขา โปรแกรมมี \"El auge del humano\" (The Human Surge), \"El auge del humano 3\" (The Human Surge 3, 2023) และ \"Parsi\" (2018) ติดตามการเคลื่อนไหวของผู้คนและภาพข้ามพรมแดนทางกายภาพและเสมือน การชุมนุมที่ไม่เป็นทางการกับศิลปินท้องถิ่นส่งเสริมบทสนทนาเกี่ยวกับภาพยนตร์ทดลองเป็นกระบวนการที่พัฒนาและร่วมกัน การพำนักสิ้นสุดลงด้วย \"Un gif larguísimo\" วนซ้ำในห้องฉาย ขยายการสำรวจการรับรู้และภายในของเขา</p>"
+    }
+  },
+  {
+    "id": "10",
+    "slug": "apichaya-wannakit",
+    "type": "residency",
+    "title": "Apichaya Wannakit",
+    "content": "",
+    "date": "",
+    "featuredImage": null,
+    "gallery": [
+      "https://irp.cdn-website.com/5516674f/dms3rep/multi/Images+for+Website-Bangkok+Kunsthalle+Images+for+Website-6.+Residency-6.9+Apichaya+Wannakit--WhatsApp+Image+2025-12-24+at+15.01.33.jpeg",
+      "https://irp.cdn-website.com/5516674f/dms3rep/multi/Puma_Images+for+Website-Bangkok+Kunsthalle+Images+for+Website-6.+Residency-6.9+Apichaya+Wannakit--WhatsApp+Image+2025-12-24+at+15.09.40.jpeg",
+      "https://irp.cdn-website.com/5516674f/dms3rep/multi/Puma_Images+for+Website-Bangkok+Kunsthalle+Images+for+Website-6.+Residency-6.9+Apichaya+Wannakit--WhatsApp+Image+2025-12-24+at+15.01.32+%281%29.jpeg",
+      "https://irp.cdn-website.com/5516674f/dms3rep/multi/Puma_Images+for+Website-Bangkok+Kunsthalle+Images+for+Website-6.+Residency-6.9+Apichaya+Wannakit--Apichaya+Wannakit-+Legacy+between+absence+and+eternity+4.jpg"
+    ],
+    "acf": {
+      "title_th": "Apichaya Wannakit",
+      "artist": "Apichaya Wannakit",
+      "artist_th": "Apichaya Wannakit",
+      "from_date": "",
+      "to_date": "",
+      "date_display": "",
+      "date_display_th": "",
+      "nationality": "",
+      "nationality_th": "",
+      "content_th": ""
+    }
+  },
+  {
+    "id": "11",
+    "slug": "rolf-sachs",
+    "type": "residency",
+    "title": "Rolf Sachs",
+    "content": "",
+    "date": "",
+    "featuredImage": null,
+    "gallery": [
+      "https://irp.cdn-website.com/5516674f/dms3rep/multi/Puma_Images+for+Website-Bangkok+Kunsthalle+Images+for+Website-6.+Residency-6.10+Rolf+Sachs--%E0%B8%AA%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B2%E0%B8%82%E0%B8%AD%E0%B8%87+Bangkok+portraits-60.jpg",
+      "https://irp.cdn-website.com/5516674f/dms3rep/multi/Puma_Images+for+Website-Bangkok+Kunsthalle+Images+for+Website-6.+Residency-6.10+Rolf+Sachs--Rolf+Sachs-+Sirikanya+27.jpg",
+      "https://irp.cdn-website.com/5516674f/dms3rep/multi/Puma_Images+for+Website-Bangkok+Kunsthalle+Images+for+Website-6.+Residency-6.10+Rolf+Sachs--DSC00813.jpg",
+      "https://irp.cdn-website.com/5516674f/dms3rep/multi/Puma_Images+for+Website-Bangkok+Kunsthalle+Images+for+Website-6.+Residency-6.10+Rolf+Sachs--Rolf+Sachs-+Preecha+Pattara+1.jpg",
+      "https://irp.cdn-website.com/5516674f/dms3rep/multi/Puma_Images+for+Website-Bangkok+Kunsthalle+Images+for+Website-6.+Residency-6.10+Rolf+Sachs--Rolf+Sachs-+Preecha+Pattara+31.jpg"
+    ],
+    "acf": {
+      "title_th": "Rolf Sachs",
+      "artist": "Rolf Sachs",
+      "artist_th": "Rolf Sachs",
+      "from_date": "",
+      "to_date": "",
+      "date_display": "",
+      "date_display_th": "",
+      "nationality": "",
+      "nationality_th": "",
+      "content_th": ""
+    }
+  },
+  {
+    "id": "12",
+    "slug": "mafalda-von-hessen",
+    "type": "residency",
+    "title": "Mafalda von Hessen",
+    "content": "",
+    "date": "",
+    "featuredImage": null,
+    "gallery": [
+      "https://irp.cdn-website.com/5516674f/dms3rep/multi/Puma_Images+for+Website-Bangkok+Kunsthalle+Images+for+Website-6.+Residency-6.11+Mafalda+von+Hessen--Mafalda-+Sirikanya+9.jpg",
+      "https://irp.cdn-website.com/5516674f/dms3rep/multi/Puma_Images+for+Website-Bangkok+Kunsthalle+Images+for+Website-6.+Residency-6.11+Mafalda+von+Hessen--Mafalada-+Ponpavee+20.jpg",
+      "https://irp.cdn-website.com/5516674f/dms3rep/multi/Puma_Images+for+Website-Bangkok+Kunsthalle+Images+for+Website-6.+Residency-6.11+Mafalda+von+Hessen--Mafalda-+Preecha+Pattara+2.jpg",
+      "https://irp.cdn-website.com/5516674f/dms3rep/multi/Puma_Images+for+Website-Bangkok+Kunsthalle+Images+for+Website-6.+Residency-6.11+Mafalda+von+Hessen--Mafalda-+Preecha+Pattara+6.jpg",
+      "https://irp.cdn-website.com/5516674f/dms3rep/multi/Puma_Images+for+Website-Bangkok+Kunsthalle+Images+for+Website-6.+Residency-6.11+Mafalda+von+Hessen--Mafalda-+Preecha+Pattara+17.jpg"
+    ],
+    "acf": {
+      "title_th": "Mafalda von Hessen",
+      "artist": "Mafalda von Hessen",
+      "artist_th": "Mafalda von Hessen",
+      "from_date": "",
+      "to_date": "",
+      "date_display": "",
+      "date_display_th": "",
+      "nationality": "",
+      "nationality_th": "",
+      "content_th": ""
     }
   }
 ]

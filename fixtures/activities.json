@@ -1,16 +1,28 @@
 [
   {
-    "id": "1",
-    "slug": "artist-talk-pansan",
-    "type": "activity",
-    "title": "Artist Talk: Pansan Klongdee",
-    "content": "<p>Join us for an artist talk with Pansan Klongdee.</p>",
-    "date": "2026-02-20",
-    "featuredImage": "",
+    "id": "a-very-long-gif",
+    "slug": "a-very-long-gif",
+    "type": "activities",
+    "title": "A Very Long Gif",
+    "content": "<p>This is a placeholder content for <strong>A Very Long Gif</strong>. Detailed information about this activity is coming soon.</p>",
+    "date": "2025",
+    "featuredImage": {
+      "sourceUrl": "https://images.unsplash.com/photo-1609167110008-9ded171e95b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxBJTIwVmVyeSUyMExvbmclMjBHaWYlMjBFZHVhcmRvJTIwV2lsbGlhbXMlMjB2aWRlbyUyMGFydGUlMjBhYnN0cmFjdCUyMHNjdWxwdHVyZXxlbnwxfHx8fDE3NjgwMzk2NzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "altText": "A Very Long Gif"
+    },
+    "gallery": [
+      "https://images.unsplash.com/photo-1609167110008-9ded171e95b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxBJTIwVmVyeSUyMExvbmclMjBHaWYlMjBFZHVhcmRvJTIwV2lsbGlhbXMlMjB2aWRlbyUyMGFydGUlMjBhYnN0cmFjdCUyMHNjdWxwdHVyZXxlbnwxfHx8fDE3NjgwMzk2NzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    ],
     "acf": {
-      "title_th": "สนทนาศิลปิน: พันธุ์สรร คล้องดี",
-      "from_date": "2026-02-20",
-      "to_date": "2026-02-20"
+      "title_th": "ภาพเคลื่อนไหวที่ยาวมาก",
+      "artist": "",
+      "artist_th": "",
+      "date_display": "2025",
+      "date_display_th": "",
+      "from_date": "",
+      "to_date": "",
+      "categories": "",
+      "content_th": "<p>นี่คือเนื้อหาตัวยึดสำหรับ <strong>ภาพเคลื่อนไหวที่ยาวมาก</strong> ข้อมูลโดยละเอียดเกี่ยวกับกิจกรรมนี้จะมาเร็วๆ นี้</p>"
     }
   }
 ]

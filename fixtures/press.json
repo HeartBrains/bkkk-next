@@ -1,30 +1,34 @@
 [
   {
     "id": "1",
-    "slug": "bkkk-opens-new-exhibition",
+    "slug": "bangkok-kunsthalle-opens-new-exhibition",
     "type": "press",
     "title": "Bangkok Kunsthalle Opens New Exhibition",
     "content": "",
     "date": "November 22, 2025",
     "featuredImage": null,
+    "gallery": [],
     "acf": {
       "title_th": "บางกอก คุนสท์ฮัลเล่ เปิดนิทรรศการใหม่",
       "link": "#",
-      "type": "pdf"
+      "type": "pdf",
+      "date_th": "22 พฤศจิกายน 2568"
     }
   },
   {
     "id": "2",
-    "slug": "interview-curator",
+    "slug": "interview-with-curator-mark-chearavanont",
     "type": "press",
     "title": "Interview with Curator Mark Chearavanont",
     "content": "",
     "date": "October 15, 2025",
     "featuredImage": null,
+    "gallery": [],
     "acf": {
       "title_th": "บทสัมภาษณ์ภัณฑารักษ์ มาร์ค เจียรวนนท์",
       "link": "#",
-      "type": "article"
+      "type": "article",
+      "date_th": "15 ตุลาคม 2568"
     }
   }
 ]
