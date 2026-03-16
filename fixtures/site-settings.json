@@ -1,0 +1,24 @@
+{
+  "bangkok": {
+    "address_en": "72/1 Charoen Krung Road, Bang Rak, Bangkok 10500",
+    "address_th": "72/1 ถนนเจริญกรุง บางรัก กรุงเทพฯ 10500",
+    "hours_en": "Tuesday – Sunday, 10:00 – 18:00",
+    "hours_th": "อังคาร – อาทิตย์ 10:00 – 18:00 น.",
+    "maps_url": "https://maps.google.com/?q=Bangkok+Kunsthalle",
+    "phone": "+66 2 000 0000",
+    "email": "info@bangkok-kunsthalle.org"
+  },
+  "khaoyai": {
+    "address_en": "Khao Yai Art Forest, Nakhon Ratchasima",
+    "address_th": "เขาใหญ่ อาร์ต ฟอเรสต์ นครราชสีมา",
+    "hours_en": "Saturday – Sunday, 10:00 – 17:00",
+    "hours_th": "เสาร์ – อาทิตย์ 10:00 – 17:00 น.",
+    "maps_url": "https://maps.google.com/?q=Khao+Yai+Art+Forest",
+    "phone": "+66 44 000 0000"
+  },
+  "social": {
+    "instagram": "https://www.instagram.com/bangkok_kunsthalle/",
+    "facebook": "https://www.facebook.com/BangkokKunsthalle",
+    "email": "info@bangkok-kunsthalle.org"
+  }
+}

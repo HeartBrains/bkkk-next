@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "slug": "welcome-to-bangkok-kunsthalle",
+    "type": "post",
+    "title": "Welcome to Bangkok Kunsthalle",
+    "content": "<p>Bangkok Kunsthalle opens its doors to the public.</p>",
+    "date": "2024-01-01",
+    "featuredImage": "",
+    "acf": {
+      "title_th": "ยินดีต้อนรับสู่บางกอก คุนสท์ฮัลเล่"
+    }
+  }
+]

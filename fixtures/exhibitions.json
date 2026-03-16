@@ -1,0 +1,81 @@
+[
+  {
+    "id": "1",
+    "slug": "nine-plus-five-works",
+    "type": "exhibition",
+    "title": "Nine Plus Five Works",
+    "content": "<p>An exhibition by Michel Auder.</p>",
+    "date": "2024-01-12",
+    "featuredImage": { "sourceUrl": "https://irp.cdn-website.com/5516674f/dms3rep/multi/Puma_Images+for+Website-Bangkok+Kunsthalle+Images+for+Website-3.+Exhibition-3.1+Nine+Plus+Five+Works--Nine+Plus+Five+Works+Opening-+Samatcha+Apaisuwan+23+COVER.jpg", "altText": "Nine Plus Five Works" },
+    "gallery": [],
+    "acf": {
+      "artist": "Michel Auder",
+      "artist_th": "มิเชล โอเดอร์",
+      "title_th": "Nine Plus Five Works",
+      "from_date": "2024-01-12",
+      "to_date": "2024-03-10",
+      "date_display": "12 January 2024 - 10 March 2024",
+      "date_display_th": "12 มกราคม 2567 - 10 มีนาคม 2567",
+      "curator": "Stefano Rabolli Pansera, Mark Chearavanont, and Gemmica Sinthawalai",
+      "curator_th": "สเตฟาโน ราบอลลี ปันเซรา, มาร์ค เชียรวนนท์, และเจมมิกา สินถาวลัย"
+    }
+  },
+  {
+    "id": "2",
+    "slug": "nostalgia-for-unity",
+    "type": "exhibition",
+    "title": "nostalgia for unity",
+    "content": "<p>An exhibition by Korakrit Arunanondchai.</p>",
+    "date": "2024-05-31",
+    "featuredImage": { "sourceUrl": "https://irp.cdn-website.com/5516674f/dms3rep/multi/Puma_Images+for+Website-Bangkok+Kunsthalle+Images+for+Website-3.+Exhibition-3.2+nostalgia+for+unity--nostalgia+for+unity-+Samatcha+Apaisuwan+1+COVER.jpg", "altText": "nostalgia for unity" },
+    "gallery": [],
+    "acf": {
+      "artist": "Korakrit Arunanondchai",
+      "artist_th": "กรกฤต อรุณานนท์ชัย",
+      "title_th": "ความคิดถึงสำหรับความเป็นหนึ่งเดียว",
+      "from_date": "2024-05-31",
+      "to_date": "2024-10-31",
+      "date_display": "31 May 2024 - 31 October 2024",
+      "date_display_th": "31 พฤษภาคม 2567 - 31 ตุลาคม 2567",
+      "curator": "Stefano Rabolli Pansera, Mark Chearavanont, and Gemmica Sinthawalai",
+      "curator_th": "สเตฟาโน ราบอลลี ปันเซรา, มาร์ค เชียรวนนท์, และเจมมิกา สินถาวลัย"
+    }
+  },
+  {
+    "id": "3",
+    "slug": "forever-love-soul-engine",
+    "type": "exhibition",
+    "title": "FOREVER LOVE SOUL ENGINE",
+    "content": "<p>An exhibition by Pansan Klongdee.</p>",
+    "date": "2026-02-06",
+    "featuredImage": { "sourceUrl": "https://irp.cdn-website.com/5516674f/dms3rep/multi/Puma_Images+for+Website-Bangkok+Kunsthalle+Images+for+Website-3.+Exhibition-3.5+FOREVER+LOVE+SOUL+ENGINE--FOREVER+LOVE+SOUL+ENGINE-+Samatcha+Apaisuwan+1+COVER.jpg", "altText": "FOREVER LOVE SOUL ENGINE" },
+    "gallery": [],
+    "acf": {
+      "artist": "Pansan Klongdee",
+      "artist_th": "พันธุ์สรร คล้องดี",
+      "title_th": "ฟอร์เอเวอร์ เลิฟ โซล เอนจิน",
+      "from_date": "2026-02-06",
+      "to_date": "2026-03-15",
+      "date_display": "6 February 2026 - 15 March 2026",
+      "date_display_th": "6 กุมภาพันธ์ 2569 - 15 มีนาคม 2569",
+      "curator": "Stefano Rabolli Pansera, Mark Chearavanont, and Gemmica Sinthawalai",
+      "curator_th": "สเตฟาโน ราบอลลี ปันเซรา, มาร์ค เชียรวนนท์, และเจมมิกา สินถาวลัย"
+    }
+  },
+  {
+    "id": "4",
+    "slug": "upcoming-exhibition-2026",
+    "type": "exhibition",
+    "title": "To Be Announced",
+    "content": "",
+    "date": "2026-04-01",
+    "featuredImage": null,
+    "gallery": [],
+    "acf": {
+      "from_date": "2026-04-01",
+      "to_date": "2026-06-30",
+      "date_display": "April - June 2026",
+      "date_display_th": "เมษายน - มิถุนายน 2569"
+    }
+  }
+]

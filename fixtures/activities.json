@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "slug": "artist-talk-pansan",
+    "type": "activity",
+    "title": "Artist Talk: Pansan Klongdee",
+    "content": "<p>Join us for an artist talk with Pansan Klongdee.</p>",
+    "date": "2026-02-20",
+    "featuredImage": "",
+    "acf": {
+      "title_th": "สนทนาศิลปิน: พันธุ์สรร คล้องดี",
+      "from_date": "2026-02-20",
+      "to_date": "2026-02-20"
+    }
+  }
+]

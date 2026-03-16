@@ -1,0 +1,72 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build static export
+        env:
+          PAGES_DEPLOY: "1"
+          NEXT_PUBLIC_STATIC_EXPORT: "1"
+          NEXT_PUBLIC_SITE_URL: "https://heartbrains.github.io/bkkk-next"
+          # All sources use mock fixtures — no WP credentials needed
+          DATA_SOURCE_EXHIBITIONS: mock
+          DATA_SOURCE_ACTIVITIES: mock
+          DATA_SOURCE_BLOG: mock
+          DATA_SOURCE_MOVING_IMAGE: mock
+          DATA_SOURCE_ARTISTS: mock
+          DATA_SOURCE_PRESS: mock
+          DATA_SOURCE_SITE_SETTINGS: mock
+          NEXT_PUBLIC_SHOW_LANGUAGE_SWITCHER: "true"
+          NEXT_PUBLIC_SHOW_SHOP: "true"
+          NEXT_PUBLIC_SHOW_PRESS: "true"
+          NEXT_PUBLIC_SHOW_ARCHIVES: "true"
+          NEXT_PUBLIC_SHOW_RESIDENCY: "true"
+          NEXT_PUBLIC_SHOW_MOVING_IMAGE: "true"
+          NEXT_PUBLIC_SHOW_KHAOYAI: "true"
+          NEXT_PUBLIC_SHOW_HOME_FEATURED: "true"
+          NEXT_PUBLIC_SHOW_HOME_ACTIVITIES: "true"
+          NEXT_PUBLIC_SHOW_HOME_BLOG: "true"
+          NEXT_PUBLIC_SHOW_HOME_MOVING_IMAGE: "true"
+        run: npm run build
+
+      - name: Add .nojekyll
+        run: touch out/.nojekyll
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: out
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,53 @@
+[
+  {
+    "id": "1",
+    "slug": "emma-mccormick-goodhart",
+    "type": "artist",
+    "title": "Emma McCormick Goodhart",
+    "content": "<p>Emma McCormick Goodhart is a British artist based in London.</p>",
+    "date": "2024-01-01",
+    "featuredImage": { "sourceUrl": "https://irp.cdn-website.com/5516674f/dms3rep/multi/Puma_Images+for+Website-Bangkok+Kunsthalle+Images+for+Website-6.+Residency-6.1+Emma+McCormick+Goodhart--glai+glaai-+Puttisin+Choojesroom+4+COVER.jpg", "altText": "Emma McCormick Goodhart" },
+    "gallery": [],
+    "acf": {
+      "name_th": "เอ็มมา แมคคอร์มิก กู๊ดฮาร์ท",
+      "residency_period": "January - February 2024",
+      "residency_period_th": "มกราคม - กุมภาพันธ์ 2567",
+      "from_date": "2024-01-01",
+      "to_date": "2024-02-28"
+    }
+  },
+  {
+    "id": "2",
+    "slug": "natalie-bruck",
+    "type": "artist",
+    "title": "Natalie Brück",
+    "content": "<p>Natalie Brück is a German artist.</p>",
+    "date": "2024-07-01",
+    "featuredImage": { "sourceUrl": "https://irp.cdn-website.com/5516674f/dms3rep/multi/Puma_Images+for+Website-Bangkok+Kunsthalle+Images+for+Website-6.+Residency-6.2+Natalie+Br%C3%BCck--Working+On+The+Imaginary+Object-+Sivakorn+Charoenyothin+1+COVER.jpg", "altText": "Natalie Brück" },
+    "gallery": [],
+    "acf": {
+      "name_th": "นาตาลี บรึค",
+      "residency_period": "July - September 2024",
+      "residency_period_th": "กรกฎาคม - กันยายน 2567",
+      "from_date": "2024-07-01",
+      "to_date": "2024-09-30"
+    }
+  },
+  {
+    "id": "3",
+    "slug": "cole-lu",
+    "type": "artist",
+    "title": "Cole Lu",
+    "content": "<p>Cole Lu is an American artist.</p>",
+    "date": "2024-10-01",
+    "featuredImage": { "sourceUrl": "https://irp.cdn-website.com/5516674f/dms3rep/multi/Puma_Images+for+Website-Bangkok+Kunsthalle+Images+for+Website-6.+Residency-6.3+Cole+Lu--Cole+Lu-+The+Engineers-+Kanrapee+Chokpaiboon+2+COVER.jpg", "altText": "Cole Lu" },
+    "gallery": [],
+    "acf": {
+      "name_th": "โคล ลู",
+      "residency_period": "October 2024",
+      "residency_period_th": "ตุลาคม 2567",
+      "from_date": "2024-10-01",
+      "to_date": "2024-10-31"
+    }
+  }
+]
