@@ -29,13 +29,16 @@ jobs:
           BKKK_BASE_URL: ${{ secrets.VITE_BKKK_BASE_URL || 'https://next.bkkapp.com/bkkk' }}
           KYAF_BASE_URL: ${{ secrets.VITE_KYAF_BASE_URL || 'https://next.bkkapp.com/kyaf' }}
 
+      - name: Setup SSH key
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.HOSTINGER_SSH_KEY }}" > ~/.ssh/deploy_key
+          chmod 600 ~/.ssh/deploy_key
+          ssh-keyscan -p ${{ secrets.HOSTINGER_SSH_PORT }} ${{ secrets.HOSTINGER_SSH_HOST }} >> ~/.ssh/known_hosts 2>/dev/null
+
       - name: Deploy to Hostinger
-        uses: burnett01/rsync-deployments@7.0.1
-        with:
-          switches: -avzr --delete
-          path: out/
-          remote_path: ${{ secrets.HOSTINGER_DEPLOY_PATH }}
-          remote_host: ${{ secrets.HOSTINGER_SSH_HOST }}
-          remote_port: ${{ secrets.HOSTINGER_SSH_PORT }}
-          remote_user: ${{ secrets.HOSTINGER_SSH_USER }}
-          remote_key: ${{ secrets.HOSTINGER_SSH_KEY }}
+        run: |
+          rsync -avzr --delete \
+            -e "ssh -i ~/.ssh/deploy_key -p ${{ secrets.HOSTINGER_SSH_PORT }} -o StrictHostKeyChecking=no" \
+            out/ \
+            ${{ secrets.HOSTINGER_SSH_USER }}@${{ secrets.HOSTINGER_SSH_HOST }}:${{ secrets.HOSTINGER_DEPLOY_PATH }}/
